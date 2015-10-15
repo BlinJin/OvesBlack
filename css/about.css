@@ -1,0 +1,40 @@
+body.whitebg{
+    background: #ccc url(../image/New/bg-body-tile.png);
+}
+
+main.about {
+    padding: 35px 0 0 0;
+    position: relative;
+    background-color: #444444;
+    padding-top:25px;
+    background: #ccc url(../image/New/bg-body-tile.png);
+    height:650px;
+    font: 14px/1.5em Helvetica, Arial, sans-serif;
+}
+
+main.about .col-full {
+    width: 900px;
+    margin: 0 auto;
+}
+
+main.about .page {
+    padding: 30px;
+    background: #ffffff;
+    height: 560px
+}
+
+main.about .page .title {
+    font: normal bold 30px/1em arial, sans-serif;
+    position: relative;
+    margin: 0 0 0.4em;
+}
+
+.entry {
+    border-top: 1px solid #e0e0e0;
+    padding-top: 1.5em;
+    clear: both;
+}
+
+.entry p {
+    margin-bottom: 1.2em;
+}
