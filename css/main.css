@@ -44,6 +44,17 @@ table {
 }
 
 /*Styles*/
+
+@font-face {
+    font-family: MetroRetro;
+    src: url(../font/MetroRetroNF.ttf);
+}
+
+@font-face {
+    font-family: TerminatorCur;
+    src: url(../font/term_cyr.ttf);
+}
+
 body{
      font: 12px/1.5em sans-serif;
      background-color: #fff;
@@ -79,32 +90,43 @@ nav {
 
 nav .logo-container
 {
-    width: 300px;
+    width: 400px;
     margin: 0 auto;
     font-family: Arial, Helvetica, sans-serif;
     padding-bottom: 0;
     color: #ffffff;
     text-transform: uppercase;
     text-shadow: 0px 1px 1px #000000;
+    padding-top: 18px;
 }
 
+nav .logo-container .logo-sheep
+{
+    position: absolute;
+    bottom:-3px;
+    right:20px;
+}
 
 nav .logo-container img
 {
-    margin-top: 20px;
     width: 60px;
     height: 49px;
     border:0;
 }
 
-nav .logo-container p{
+nav .logo-container .slogan{
+    font-family: TerminatorCur;
     margin-left: 10px;
-    font-size: 12px;
+    font-size: 13px;
+    margin-top: 20px;
 }
 
-nav .name
+nav .logo-container .name
 {
+    margin-top: 20px;
+    font-family: MetroRetro;
     font-size: 65px;
+    padding-left: 60px;
 }
 
 

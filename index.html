@@ -10,18 +10,17 @@
 </head>
 <body ng-app="myApp" ng-controller="MainController"
       ng-class="{whitebg: state.includes('about') || state.includes('gallery') ||
-      state.includes('events') ||  state.includes('gallery') ||  state.includes('contacts')
+      state.includes('events')  ||  state.includes('contacts')
       || state.includes('calldesign')}">
 <header>
     <nav>
         <!--<span ng-bind="navData.hello"></span>-->
-        <div class="logo-container">
-            <span class="name">Oves</span>
-            <a href="index.html">
+        <div class="logo-container" style="position: relative;">
+            <div class="name">Oves</div>
+            <div class="slogan">студия штор & каминов</div>
+            <a href="index.html" class="logo-sheep">
                 <img ng-src="image/logo_oves.png" />
-
             </a>
-            <p>Студия текстиля & каминов</p>
         </div>
         <ul class="menu">
             <li ui-sref-active="active"><a ui-sref="main">Главная</a></li>
