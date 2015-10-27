@@ -52,7 +52,7 @@ table {
 
 @font-face {
     font-family: TerminatorCur;
-    src: url(../font/term_cyr.ttf);
+    src: url(../font/terminator_cyr.ttf);
 }
 
 body{
@@ -60,7 +60,7 @@ body{
      background-color: #fff;
      text-transform: none;
      color: #000000;
-     background: url(../image/New/bg-minifeatures.png);
+     background: url(../image/site/bg-main.png);
 }
 
 body,html
@@ -76,7 +76,7 @@ body,html
 
 /*header*/
 header {
-    background: transparent url(../image/New/wrapper-bg-colourstrip.png) repeat-x left top;
+    background: transparent url(../image/site/wrapper-color-line.png) repeat-x left top;
     padding-top: 5px;
 }
 
@@ -84,7 +84,7 @@ nav {
     position: relative;
     z-index: 999;
     margin: 0 0 30px;
-    background: transparent url(../image/New/bg-ripple-header.png) repeat left bottom;
+    background: transparent url(../image/site/bg-ripple-header.png) repeat left bottom;
     margin-bottom: -5px;
 }
 
@@ -184,7 +184,7 @@ main.main {
     position: relative;
     background-color: #444444;
     padding-top:25px;
-    background: #ccc url(../image/New/bg-featured.png) repeat top left;
+    background: #ccc url(../image/site/bg-featured.png) repeat top left;
 }
 
 main.main .col-full {
@@ -220,7 +220,7 @@ main.main img.right-img
 
 footer {
     /*padding: 7px 0;*/
-    background: url(../image/New/bg-minifeatures.png) repeat top left;
+    background: url(../image/site/bg-main.png) repeat top left;
 }
 
 
