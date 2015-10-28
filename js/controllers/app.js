@@ -1,4 +1,4 @@
-var myApp = angular.module('myApp',['ui.router']);
+var myApp = angular.module('myApp',['ui.router' ,'jkuri.gallery']);
 
 myApp.config(function($stateProvider, $urlRouterProvider) {
     //
@@ -76,16 +76,72 @@ myApp.controller('GalleryController', ['$scope', '$http', '$state', function($sc
             {"cat1" : false},
             {"cat2" : false}
         ],
-        "blindsFilter":[]
-    };
+        "blindsFilter":[
+            {"all" : true},
+            {"badroom" : false},
+            {"child" : false},
+            {"kitchen" : false},
+            {"living" : false},
+            {"workroom" : false},
+            {"other" : false}
 
+        ]
+    };
+    $scope.category={};
     $http.get('./json/gallery/galleryFilter.json').success(function (data) {
         $scope.filter  = data;
-        //alert(JSON.stringify($scope.filter, null,4));
+
+
     }).
         error(function () {
 
         });
+
+    $http.get('./json/gallery/blinds/galleryTest.json').success(function (data) {
+        $scope.category  = data;
+        //alert(JSON.stringify($scope.category, null, 4));
+
+
+    }).
+        error(function () {
+
+        });
+    $scope.solution2= {};
+    //$scope.solution2.images = [
+    //    {thumb: 'image/gallery/blinds/badroom/1.jpg', img: 'image/gallery/blinds/badroom/1.jpg', description: 'Image 1'},
+    //    {thumb: 'image/gallery/blinds/badroom/1.jpg', img: 'image/gallery/blinds/badroom/1.jpg', description: 'Image 2'},
+    //    {thumb: 'image/gallery/blinds/badroom/1.jpg', img: 'image/gallery/blinds/badroom/1.jpg', description: 'Image 3'},
+    //    {thumb: 'image/gallery/blinds/badroom/1.jpg', img: 'image/gallery/blinds/badroom/1.jpg', description: 'Image 4'},
+    //    {thumb: 'image/gallery/blinds/badroom/1.jpg', img: 'image/gallery/blinds/badroom/1.jpg', description: 'Image 1'},
+    //    {thumb: 'image/gallery/blinds/badroom/1.jpg', img: 'image/gallery/blinds/badroom/1.jpg', description: 'Image 2'},
+    //    {thumb: 'image/gallery/blinds/badroom/1.jpg', img: 'image/gallery/blinds/badroom/1.jpg', description: 'Image 3'},
+    //    {thumb: 'image/gallery/blinds/badroom/1.jpg', img: 'image/gallery/blinds/badroom/1.jpg', description: 'Image 4'},
+    //    {thumb: 'image/gallery/blinds/badroom/1.jpg', img: 'image/gallery/blinds/badroom/1.jpg', description: 'Image 1'},
+    //    {thumb: 'image/gallery/blinds/badroom/1.jpg', img: 'image/gallery/blinds/badroom/1.jpg', description: 'Image 2'}
+    //];
+
+    $scope.solution2.images =[
+        {
+            "thumb": "image/gallery/blinds/badroom/1.jpg",
+            "img": "image/gallery/blinds/badroom/1.jpg",
+            "description": "Image"
+        },
+        {
+            "thumb": "image/gallery/blinds/badroom/1.jpg",
+            "img": "image/gallery/blinds/badroom/1.jpg",
+            "description": "Image "
+        },
+        {
+            "thumb": "image/gallery/blinds/badroom/1.jpg",
+            "img": "image/gallery/blinds/badroom/1.jpg",
+            "description": "Image "
+        },
+        {
+            "thumb": "image/gallery/blinds/badroom/1.jpg",
+            "img": "image/gallery/blinds/badroom/1.jpg",
+            "description": "Image "
+        }
+    ]
 
     $scope.filterChange = function(param)
     {

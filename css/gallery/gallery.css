@@ -56,7 +56,7 @@ main.about {
     top: 0;
     left: 0
 }
-.view img {
+.view img.main-image {
     display: block;
     position: relative
 
@@ -80,7 +80,7 @@ main.about {
     padding: 10px 20px 20px;
     text-align: center
 }
-.view a.info {
+.view .info {
     display: inline-block;
     text-decoration: none;
     padding: 7px 14px;
@@ -89,12 +89,12 @@ main.about {
     text-transform: uppercase;
     box-shadow: 0 0 1px #000
 }
-.view a.info:hover {
-    box-shadow: 0 0 5px #000
-}
+/*.view .info:hover {*/
+    /*box-shadow: 0 0 5px #000*/
+/*}*/
 
 
-.view-first img {
+.view-first img.main-image {
     transition: all 0.2s linear;
 
 }
@@ -139,7 +139,7 @@ main.about {
 }
 
 
-.view-fourth img {
+.view-fourth img.main-image {
     transition: all 0.4s ease-in-out 0.2s;
     opacity: 1;
     width: 350px;
@@ -172,7 +172,7 @@ main.about {
     transform: scale(1) rotate(0deg);
     transition-delay: 0.2s;
 }
-.view-fourth:hover img 	  {
+.view-fourth:hover img.main-image 	  {
     transform: scale(0);
     opacity: 0;
     transition-delay: 0s;
@@ -184,7 +184,7 @@ main.about {
     transition-delay: 0.5s;
 }
 
-.view-sixth img {
+.view-sixth img.main-image {
     transition: all 0.4s ease-in-out 0.5s;
     width: 400px;
 }
@@ -216,7 +216,7 @@ main.about {
     opacity:1;
     transition-delay: 0s;
 }
-.view-sixth:hover img {
+.view-sixth:hover img.main-image {
     transition-delay: 0s;
 }
 .view-sixth:hover h2 {

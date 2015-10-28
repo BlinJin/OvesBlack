@@ -1,5 +1,5 @@
 body.whitebg{
-    background: #ccc url(../image/New/bg-body-tile.png);
+    background: #ccc url(../image/site/bg-body-tile.png);
 }
 
 main.about {
@@ -7,7 +7,7 @@ main.about {
     position: relative;
     background-color: #444444;
     padding-top:25px;
-    background: #ccc url(../image/New/bg-body-tile.png);
+    background: #ccc url(../image/site/bg-body-tile.png);
     height:650px;
     font: 14px/1.5em Helvetica, Arial, sans-serif;
 }

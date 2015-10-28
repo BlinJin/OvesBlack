@@ -1,0 +1,48 @@
+{
+  "blinds" : [
+                {
+                  "item": [
+                    {
+                      "solution": {
+                        "name": "solution1",
+                        "description": "Description of solution 1"
+                      }
+                    },
+                    {
+                      "solution": {
+                        "name": "solution2",
+                        "description": "Description of solution 2"
+                      }
+                    },
+                    {
+                      "solution": {
+                        "name": "solution2",
+                        "description": "Description of solution 2"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "item" : [
+                              {
+                                "solution" :
+                                { "name" : "solution1",
+                                  "description" : "Description of solution 1"
+                                }
+                              },
+                              {
+                                "solution" :
+                                { "name" : "solution2",
+                                  "description" : "Description of solution 2"
+                                }
+                              },
+                              {
+                                "solution" :
+                                { "name" : "solution2",
+                                  "description" : "Description of solution 2"
+                                }
+                              }
+                            ]
+                }
+  ]
+}

@@ -1,0 +1,305 @@
+
+[
+  {
+    "solution": {
+    "name": "solution1",
+    "description": "Description of solution 1",
+      "images" :
+      [
+        {
+          "thumb": "image/gallery/blinds/badroom/1.jpg",
+          "img": "image/gallery/blinds/badroom/1.jpg",
+          "description": "Image"
+        },
+        {
+          "thumb": "image/gallery/blinds/badroom/1.jpg",
+          "img": "image/gallery/blinds/badroom/1.jpg",
+          "description": "Image "
+        },
+        {
+          "thumb": "image/gallery/blinds/badroom/1.jpg",
+          "img": "image/gallery/blinds/badroom/1.jpg",
+          "description": "Image "
+        },
+        {
+          "thumb": "image/gallery/blinds/badroom/1.jpg",
+          "img": "image/gallery/blinds/badroom/1.jpg",
+          "description": "Image "
+        }
+      ]
+    }
+  },
+    {
+      "solution": {
+      "name": "solution2",
+      "description": "Description of solution 2",
+        "images" :
+        [
+          {
+            "thumb": "image/gallery/blinds/badroom/1.jpg",
+            "img": "image/gallery/blinds/badroom/1.jpg",
+            "description": "Image"
+          },
+          {
+            "thumb": "image/gallery/blinds/badroom/1.jpg",
+            "img": "image/gallery/blinds/badroom/1.jpg",
+            "description": "Image "
+          },
+          {
+            "thumb": "image/gallery/blinds/badroom/1.jpg",
+            "img": "image/gallery/blinds/badroom/1.jpg",
+            "description": "Image "
+          },
+          {
+            "thumb": "image/gallery/blinds/badroom/1.jpg",
+            "img": "image/gallery/blinds/badroom/1.jpg",
+            "description": "Image "
+          }
+        ]
+    }
+  },
+    {
+      "solution": {
+      "name": "solution3",
+      "description": "Description of solution 3",
+        "images" :
+        [
+          {
+            "thumb": "image/gallery/blinds/badroom/1.jpg",
+            "img": "image/gallery/blinds/badroom/1.jpg",
+            "description": "Image"
+          },
+          {
+            "thumb": "image/gallery/blinds/badroom/1.jpg",
+            "img": "image/gallery/blinds/badroom/1.jpg",
+            "description": "Image "
+          },
+          {
+            "thumb": "image/gallery/blinds/badroom/1.jpg",
+            "img": "image/gallery/blinds/badroom/1.jpg",
+            "description": "Image "
+          },
+          {
+            "thumb": "image/gallery/blinds/badroom/1.jpg",
+            "img": "image/gallery/blinds/badroom/1.jpg",
+            "description": "Image "
+          },
+          {
+            "thumb": "image/gallery/blinds/badroom/1.jpg",
+            "img": "image/gallery/blinds/badroom/1.jpg",
+            "description": "Image"
+          },
+          {
+            "thumb": "image/gallery/blinds/badroom/1.jpg",
+            "img": "image/gallery/blinds/badroom/1.jpg",
+            "description": "Image "
+          },
+          {
+            "thumb": "image/gallery/blinds/badroom/1.jpg",
+            "img": "image/gallery/blinds/badroom/1.jpg",
+            "description": "Image "
+          },
+          {
+            "thumb": "image/gallery/blinds/badroom/1.jpg",
+            "img": "image/gallery/blinds/badroom/1.jpg",
+            "description": "Image "
+          }
+        ]
+    }
+  },
+  {
+    "solution": {
+      "name": "solution4",
+      "description": "Description of solution 4",
+      "images" :
+      [
+        {
+          "thumb": "image/gallery/blinds/badroom/1.jpg",
+          "img": "image/gallery/blinds/badroom/1.jpg",
+          "description": "Image"
+        },
+        {
+          "thumb": "image/gallery/blinds/badroom/1.jpg",
+          "img": "image/gallery/blinds/badroom/1.jpg",
+          "description": "Image "
+        },
+        {
+          "thumb": "image/gallery/blinds/badroom/1.jpg",
+          "img": "image/gallery/blinds/badroom/1.jpg",
+          "description": "Image "
+        },
+        {
+          "thumb": "image/gallery/blinds/badroom/1.jpg",
+          "img": "image/gallery/blinds/badroom/1.jpg",
+          "description": "Image "
+        },
+        {
+          "thumb": "image/gallery/blinds/badroom/1.jpg",
+          "img": "image/gallery/blinds/badroom/1.jpg",
+          "description": "Image"
+        },
+        {
+          "thumb": "image/gallery/blinds/badroom/1.jpg",
+          "img": "image/gallery/blinds/badroom/1.jpg",
+          "description": "Image "
+        },
+        {
+          "thumb": "image/gallery/blinds/badroom/1.jpg",
+          "img": "image/gallery/blinds/badroom/1.jpg",
+          "description": "Image "
+        },
+        {
+          "thumb": "image/gallery/blinds/badroom/1.jpg",
+          "img": "image/gallery/blinds/badroom/1.jpg",
+          "description": "Image "
+        }
+      ]
+    }
+  },
+  {
+  "solution": {
+    "name": "solution5",
+    "description": "Description of solution 5",
+    "images" :
+    [
+      {
+        "thumb": "image/gallery/blinds/badroom/1.jpg",
+        "img": "image/gallery/blinds/badroom/1.jpg",
+        "description": "Image"
+      },
+      {
+        "thumb": "image/gallery/blinds/badroom/1.jpg",
+        "img": "image/gallery/blinds/badroom/1.jpg",
+        "description": "Image "
+      },
+      {
+        "thumb": "image/gallery/blinds/badroom/1.jpg",
+        "img": "image/gallery/blinds/badroom/1.jpg",
+        "description": "Image "
+      },
+      {
+        "thumb": "image/gallery/blinds/badroom/1.jpg",
+        "img": "image/gallery/blinds/badroom/1.jpg",
+        "description": "Image "
+      },
+      {
+        "thumb": "image/gallery/blinds/badroom/1.jpg",
+        "img": "image/gallery/blinds/badroom/1.jpg",
+        "description": "Image"
+      },
+      {
+        "thumb": "image/gallery/blinds/badroom/1.jpg",
+        "img": "image/gallery/blinds/badroom/1.jpg",
+        "description": "Image "
+      },
+      {
+        "thumb": "image/gallery/blinds/badroom/1.jpg",
+        "img": "image/gallery/blinds/badroom/1.jpg",
+        "description": "Image "
+      },
+      {
+        "thumb": "image/gallery/blinds/badroom/1.jpg",
+        "img": "image/gallery/blinds/badroom/1.jpg",
+        "description": "Image "
+      }
+    ]
+  }
+},
+  {
+    "solution": {
+      "name": "solution6",
+      "description": "Description of solution 6",
+      "images" :
+      [
+        {
+          "thumb": "image/gallery/blinds/badroom/1.jpg",
+          "img": "image/gallery/blinds/badroom/1.jpg",
+          "description": "Image"
+        },
+        {
+          "thumb": "image/gallery/blinds/badroom/1.jpg",
+          "img": "image/gallery/blinds/badroom/1.jpg",
+          "description": "Image "
+        },
+        {
+          "thumb": "image/gallery/blinds/badroom/1.jpg",
+          "img": "image/gallery/blinds/badroom/1.jpg",
+          "description": "Image "
+        },
+        {
+          "thumb": "image/gallery/blinds/badroom/1.jpg",
+          "img": "image/gallery/blinds/badroom/1.jpg",
+          "description": "Image "
+        },
+        {
+          "thumb": "image/gallery/blinds/badroom/1.jpg",
+          "img": "image/gallery/blinds/badroom/1.jpg",
+          "description": "Image"
+        },
+        {
+          "thumb": "image/gallery/blinds/badroom/1.jpg",
+          "img": "image/gallery/blinds/badroom/1.jpg",
+          "description": "Image "
+        },
+        {
+          "thumb": "image/gallery/blinds/badroom/1.jpg",
+          "img": "image/gallery/blinds/badroom/1.jpg",
+          "description": "Image "
+        },
+        {
+          "thumb": "image/gallery/blinds/badroom/1.jpg",
+          "img": "image/gallery/blinds/badroom/1.jpg",
+          "description": "Image "
+        }
+      ]
+    }
+  },
+  {
+    "solution": {
+      "name": "solution7",
+      "description": "Description of solution 7"
+    }
+  },
+  {
+    "solution": {
+      "name": "solution8",
+      "description": "Description of solution 8"
+    }
+  },
+  {
+    "solution": {
+      "name": "solution9",
+      "description": "Description of solution 9"
+    }
+  },
+  {
+    "solution": {
+      "name": "solution5",
+      "description": "Description of solution 5"
+    }
+  },
+  {
+    "solution": {
+      "name": "solution6",
+      "description": "Description of solution 6"
+    }
+  },
+  {
+    "solution": {
+      "name": "solution7",
+      "description": "Description of solution 7"
+    }
+  },
+  {
+    "solution": {
+      "name": "solution8",
+      "description": "Description of solution 8"
+    }
+  },
+  {
+    "solution": {
+      "name": "solution9",
+      "description": "Description of solution 9"
+    }
+  }
+]

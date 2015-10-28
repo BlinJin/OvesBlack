@@ -4,5 +4,8 @@
       {"cat1" : false},
       {"cat2" : false}
   ],
-  "blindsFilter":[]
+  "blindsFilter":[
+    {"all" : true},
+    {"cat1" : false},
+    {"cat2" : false}]
 }
