@@ -2,7 +2,6 @@ var myApp = angular.module('myApp',['ui.router' ,'jkuri.gallery']);
 
 myApp.config(function($stateProvider, $urlRouterProvider) {
     //
-    // For any unmatched url, redirect to /state1
     $urlRouterProvider.otherwise("/main");
     //
     // Now set up the states

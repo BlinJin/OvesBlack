@@ -6,6 +6,11 @@
   ],
   "blindsFilter":[
     {"all" : true},
-    {"cat1" : false},
-    {"cat2" : false}]
+    {"badroom" : false},
+    {"child" : false},
+    {"kitchen" : false},
+    {"living" : false},
+    {"workroom" : false},
+    {"other" : false}
+  ]
 }
