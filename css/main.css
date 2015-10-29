@@ -129,10 +129,19 @@ nav .logo-container .name
     padding-left: 60px;
 }
 
+nav .logo-container .logo-sheep
+{
+    background-image: url(../image/site/logo_oves.png);
+    background-size: 60px 50px;
+    width: 60px;
+    height: 50px;
+    margin-bottom: 5px;
+}
+
 
 nav ul.menu
 {
-    border-top: 1px solid #5aab91;
+    border-top: 2px solid #5aab91;
     border-color: rgba(90,171,145,0.6);
     margin-top: 5px;
     width: 900px;
@@ -249,8 +258,9 @@ footer .fix {
     margin: -1px 0 0;
 }
 
-footer .home-icon {
+footer .home-icon, footer i {
     float: left;
+    color: #5aab91;
 }
 
 footer p {
