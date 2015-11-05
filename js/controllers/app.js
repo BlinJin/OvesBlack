@@ -83,28 +83,16 @@ myApp.controller('GalleryController', ['$scope', '$http', '$state', function($sc
             {"living" : false},
             {"workroom" : false},
             {"other" : false}
-
         ]
     };
     $scope.category={};
-    $http.get('./json/gallery/galleryFilter.json').success(function (data) {
-        $scope.filter  = data;
-
-
-    }).
-        error(function () {
-
-        });
 
     $http.get('./json/gallery/blinds/galleryTest.json').success(function (data) {
         $scope.category  = data;
         //alert(JSON.stringify($scope.category, null, 4));
+    });
 
 
-    }).
-        error(function () {
-
-        });
     $scope.solution2= {};
     //$scope.solution2.images = [
     //    {thumb: 'image/gallery/blinds/badroom/1.jpg', img: 'image/gallery/blinds/badroom/1.jpg', description: 'Image 1'},
@@ -119,40 +107,51 @@ myApp.controller('GalleryController', ['$scope', '$http', '$state', function($sc
     //    {thumb: 'image/gallery/blinds/badroom/1.jpg', img: 'image/gallery/blinds/badroom/1.jpg', description: 'Image 2'}
     //];
 
-    $scope.solution2.images =[
-        {
-            "thumb": "image/gallery/blinds/badroom/1.jpg",
-            "img": "image/gallery/blinds/badroom/1.jpg",
-            "description": "Image"
-        },
-        {
-            "thumb": "image/gallery/blinds/badroom/1.jpg",
-            "img": "image/gallery/blinds/badroom/1.jpg",
-            "description": "Image "
-        },
-        {
-            "thumb": "image/gallery/blinds/badroom/1.jpg",
-            "img": "image/gallery/blinds/badroom/1.jpg",
-            "description": "Image "
-        },
-        {
-            "thumb": "image/gallery/blinds/badroom/1.jpg",
-            "img": "image/gallery/blinds/badroom/1.jpg",
-            "description": "Image "
-        }
-    ]
+    //$scope.solution2.images =[
+    //    {
+    //        "thumb": "image/gallery/blinds/badroom/1.jpg",
+    //        "img": "image/gallery/blinds/badroom/1.jpg",
+    //        "description": "Image"
+    //    },
+    //    {
+    //        "thumb": "image/gallery/blinds/badroom/1.jpg",
+    //        "img": "image/gallery/blinds/badroom/1.jpg",
+    //        "description": "Image "
+    //    },
+    //    {
+    //        "thumb": "image/gallery/blinds/badroom/1.jpg",
+    //        "img": "image/gallery/blinds/badroom/1.jpg",
+    //        "description": "Image "
+    //    },
+    //    {
+    //        "thumb": "image/gallery/blinds/badroom/1.jpg",
+    //        "img": "image/gallery/blinds/badroom/1.jpg",
+    //        "description": "Image "
+    //    }
+    //]
 
     $scope.filterChange = function(param)
     {
-        alert(param);
+        $scope.filter.blindsFilter.all = false;
+        $scope.filter.blindsFilter.badroom = false;
+        $scope.filter.blindsFilter.child = false;
+        $scope.filter.blindsFilter.kitchen = false;
+        $scope.filter.blindsFilter.living = false;
+        $scope.filter.blindsFilter.workroom = false;
+        $scope.filter.blindsFilter.other = false;
+
+        $scope.filter.blindsFilter[param]=!$scope.filter.blindsFilter[param];
+    };
+    $scope.filter.blindsFilter.all = true;
+
+    $scope.showGallery = function(param)
+    {
+        alert();
     };
 
     $http.get('./json/category.json').success(function (data) {
         $scope.navData= data;
-    }).
-        error(function () {
-
-        });
+    });
 
 
 }]);

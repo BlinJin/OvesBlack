@@ -95,108 +95,21 @@ main.gallery {
     color: #fff;
     text-transform: uppercase;
     box-shadow: 0 0 1px #000
+    cursor: pointer;
 }
 /*.view .info:hover {*/
     /*box-shadow: 0 0 5px #000*/
 /*}*/
 
 
-.view-first img.main-image {
-    transition: all 0.2s linear;
 
-}
-.view-first .mask {
-    opacity: 0;
-    background-color: rgba(219,127,8, 0.7);
-    transition: all 0.4s ease-in-out;
-}
-.view-first h2 {
-    transform: translateY(-100px);
-    opacity: 0;
-    transition: all 0.2s ease-in-out;
-}
-.view-first p {
-    transform: translateY(100px);
-    opacity: 0;
-    transition: all 0.2s linear;
-}
-.view-first a.info{
-    opacity: 0;
-    transition: all 0.2s ease-in-out;
-}
-
-
-.view-first:hover img {
-    transform: scale(1.1);
-}
-.view-first:hover .mask {
-    opacity: 1;
-}
-.view-first:hover h2,
-.view-first:hover p,
-.view-first:hover a.info {
-    opacity: 1;
-    transform: translateY(0px);
-}
-.view-first:hover p {
-    transition-delay: 0.1s;
-}
-.view-first:hover a.info {
-    transition-delay: 0.2s;
-}
-
-
-.view-fourth img.main-image {
-    transition: all 0.4s ease-in-out 0.2s;
-    opacity: 1;
-    width: 350px;
-}
-.view-fourth .mask {
-    background-color: rgba(0,0,0,0.8);
-    opacity: 0;
-    transform: scale(0) rotate(-180deg);
-    transition: all 0.4s ease-in;
-    border-radius: 0px;
-}
-.view-fourth h2{
-    opacity: 0;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
-    background: transparent;
-    margin: 20px 40px 0px 40px;
-    transition: all 0.5s ease-in-out;
-}
-.view-fourth p {
-    opacity: 0;
-    transition: all 0.5s ease-in-out;
-}
-.view-fourth a.info {
-    opacity: 0;
-    transition: all 0.5s ease-in-out;
-}
-
-.view-fourth:hover .mask {
-    opacity: 1;
-    transform: scale(1) rotate(0deg);
-    transition-delay: 0.2s;
-}
-.view-fourth:hover img.main-image 	  {
-    transform: scale(0);
-    opacity: 0;
-    transition-delay: 0s;
-}
-.view-fourth:hover h2,
-.view-fourth:hover p,
-.view-fourth:hover a.info{
-    opacity: 1;
-    transition-delay: 0.5s;
-}
 
 .view-sixth img.main-image {
     transition: all 0.4s ease-in-out 0.5s;
     width: 400px;
 }
 .view-sixth .mask{
-    background-color: rgba(146,96,91,0.5);
+    background-color: rgba(146,96,91,0.8);
     opacity:0;
     transition: all 0.3s ease-in 0.4s;
 }
@@ -215,8 +128,10 @@ main.gallery {
 }
 .view-sixth a.info {
     opacity:0;
+    cursor: pointer;
     transform: translateY(100px);
     transition: all 0.3s ease-in-out 0.1s;
+
 }
 
 .view-sixth:hover .mask {

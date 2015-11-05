@@ -12,9 +12,9 @@
 
 </head>
 <body ng-app="myApp" ng-controller="MainController"
-      ng-class="{whitebg: state.includes('about') || state.includes('gallery') ||
+      ng-class="{whitebg: state.includes('about') ||
       state.includes('events')  ||  state.includes('contacts')
-      || state.includes('calldesign')}">
+      || state.includes('calldesign'), blackbg:state.includes('gallery')}">
 <header>
     <nav>
         <!--<span ng-bind="navData.hello"></span>-->

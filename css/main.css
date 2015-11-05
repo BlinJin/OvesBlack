@@ -63,6 +63,14 @@ body{
      background: url(../image/site/bg-main.png);
 }
 
+body.whitebg{
+    background: #ccc url(../image/site/bg-body-tile.png);
+}
+
+body.blackbg{
+    background: #ccc url(../image/site/bg-featured.png);
+}
+
 body,html
 {
     height: 100%;
@@ -132,9 +140,9 @@ nav .logo-container .name
 nav .logo-container .logo-sheep
 {
     background-image: url(../image/site/logo_oves.png);
-    background-size: 60px 50px;
-    width: 60px;
-    height: 50px;
+    background-size: 80px 60px;
+    width: 80px;
+    height: 60px;
     margin-bottom: 5px;
 }
 

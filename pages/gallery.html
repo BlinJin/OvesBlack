@@ -24,23 +24,22 @@
                     <div class="fl">
                                 <span class="port-cat">
                                 <span style="color:white; font-size: 13px;">ШТОРЫ:</span>
-                                    <button  class="current" ng-click="filter.blindsFilter.all=!filter.blindsFilter.all"
+                                    <button  ng-click="filterChange('all')"
                                              ng-class="{current: filter.blindsFilter.all}">Все</button>
-                                   <button  class="current" ng-click="filter.blindsFilter.badroom=!filter.blindsFilter.badroom"
-                                            ng-class="{current: filter.blindsFilter.badroom}">Спальня</button>
-                                    <button  class="current" ng-click="filter.blindsFilter.living=!filter.blindsFilter.living"
+                                   <button   ng-click="filterChange('badroom')"
+                                             ng-class="{current: filter.blindsFilter.badroom}">Спальня</button>
+                                    <button  ng-click="filterChange('living')"
                                              ng-class="{current: filter.blindsFilter.living}">Гостиная</button>
-                                    <button  class="current" ng-click="filter.blindsFilter.child=!filter.blindsFilter.child"
+                                    <button  ng-click="filterChange('child')"
                                              ng-class="{current: filter.blindsFilter.child}">Детская</button>
-                                    <button  class="current" ng-click="filter.blindsFilter.kitchen=!filter.blindsFilter.kitchen"
+                                    <button  ng-click="filterChange('kitchen')"
                                              ng-class="{current: filter.blindsFilter.kitchen}">Кухня</button>
-                                    <button  class="current" ng-click="filter.blindsFilter.workroom=!filter.blindsFilter.workroom"
+                                    <button  ng-click="filterChange('workroom')"
                                              ng-class="{current: filter.blindsFilter.workroom}">Рабочая комната</button>
-                                    <button  class="current" ng-click="filter.blindsFilter.other=!filter.blindsFilter.other"
+                                    <button  ng-click="filterChange('other')"
                                              ng-class="{current: filter.blindsFilter.other}">Другое</button>
-                                    <!--<button ng-click="filterChange('Cat 1')" >Спальня</button>-->
                                 </span>
-                    </div><!--/.fl-->
+                    </div>
                     <div class="fix"></div>
                 </div><!--/#port-tags .port-tags-->
             </div><!--/#portfolio-->
@@ -54,16 +53,16 @@
 
     <div class="gallery-container" style="margin: 0 auto; padding-top:20px; padding-left:20px;">
 
-        <div class="view view-sixth" ng-repeat="solution in category">
+        <div class="view view-sixth" ng-repeat="item in category">
 
-            <img class="main-image" ng-src="image/gallery/blinds/badroom/{{1}}.jpg" style="width: 400px; height: 267px;"/>
+            <img class="main-image" ng-src="{{item.solution.main}}" style="width: 400px; height: 267px;"/>
 
             <div class="mask">
-                <h2>{{solution.solution.name}}</h2>
-                <p>{{solution.solution.description}}</p>
-                <span class="info">Смотреть</span>
-                <div style="margin: 0 auto; width: 350px; padding-top: 10px;">
-                    <ng-gallery images="solution.solution.images" ng-show="true">
+                <h2>{{item.solution.name}}</h2>
+                <p>{{item.solution.description}}</p>
+                <!--<a class="info" ng-click="showGallery()">Смотреть</a>-->
+                <div style="margin: 0 auto; width: 350px;">
+                    <ng-gallery images="item.solution.images" ng-show="true" >
                     </ng-gallery>
                 </div>
             </div>
