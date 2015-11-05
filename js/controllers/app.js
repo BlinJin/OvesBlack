@@ -132,21 +132,40 @@ myApp.controller('GalleryController', ['$scope', '$http', '$state', function($sc
 
     $scope.filterChange = function(param)
     {
-        $scope.filter.blindsFilter.all = false;
-        $scope.filter.blindsFilter.badroom = false;
-        $scope.filter.blindsFilter.child = false;
-        $scope.filter.blindsFilter.kitchen = false;
-        $scope.filter.blindsFilter.living = false;
-        $scope.filter.blindsFilter.workroom = false;
-        $scope.filter.blindsFilter.other = false;
-
-        $scope.filter.blindsFilter[param]=!$scope.filter.blindsFilter[param];
+        if (param == 'all')
+        {
+            $scope.filter.blindsFilter.all = true;
+            $scope.filter.blindsFilter.badroom = true;
+            $scope.filter.blindsFilter.child = true;
+            $scope.filter.blindsFilter.kitchen = true;
+            $scope.filter.blindsFilter.living = true;
+            $scope.filter.blindsFilter.workroom = true;
+            $scope.filter.blindsFilter.other = true;
+        }
+        else {
+            $scope.filter.blindsFilter.all = false;
+            $scope.filter.blindsFilter.badroom = false;
+            $scope.filter.blindsFilter.child = false;
+            $scope.filter.blindsFilter.kitchen = false;
+            $scope.filter.blindsFilter.living = false;
+            $scope.filter.blindsFilter.workroom = false;
+            $scope.filter.blindsFilter.other = false;
+            $scope.filter.blindsFilter[param] = !$scope.filter.blindsFilter[param];
+        }
     };
     $scope.filter.blindsFilter.all = true;
+    $scope.filter.blindsFilter.badroom = true;
+    $scope.filter.blindsFilter.child = true;
+    $scope.filter.blindsFilter.kitchen = true;
+    $scope.filter.blindsFilter.living = true;
+    $scope.filter.blindsFilter.workroom = true;
+    $scope.filter.blindsFilter.other = true;
 
-    $scope.showGallery = function(param)
+
+    $scope.filterCategory = function(category)
     {
-        alert();
+        debugger;
+        return $scope.filter.blindsFilter[category];
     };
 
     $http.get('./json/category.json').success(function (data) {

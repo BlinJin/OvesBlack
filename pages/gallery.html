@@ -53,20 +53,22 @@
 
     <div class="gallery-container" style="margin: 0 auto; padding-top:20px; padding-left:20px;">
 
-        <div class="view view-sixth" ng-repeat="item in category">
+        <div ng-repeat="item in category">
+            <div class="view view-sixth" ng-show="filterCategory(item.solution.category)">
 
-            <img class="main-image" ng-src="{{item.solution.main}}" style="width: 400px; height: 267px;"/>
+                <img class="main-image" ng-src="{{item.solution.main}}" style="width: 400px; height: 267px;"/>
 
-            <div class="mask">
-                <h2>{{item.solution.name}}</h2>
-                <p>{{item.solution.description}}</p>
-                <!--<a class="info" ng-click="showGallery()">Смотреть</a>-->
-                <div style="margin: 0 auto; width: 350px;">
-                    <ng-gallery images="item.solution.images" ng-show="true" >
-                    </ng-gallery>
+                <div class="mask">
+                    <h2>{{item.solution.name}}</h2>
+                    <p>{{item.solution.description}}</p>
+                    <!--<a class="info" ng-click="showGallery()">Смотреть</a>-->
+                    <div style="margin: 0 auto; width: 350px;">
+                        <ng-gallery images="item.solution.images" ng-show="true" >
+                        </ng-gallery>
+                    </div>
                 </div>
-            </div>
 
+            </div>
         </div>
 
     </div>
