@@ -39,7 +39,7 @@ main.gallery {
     position: relative;
     background-color: #444444;
     padding-top:25px;
-    background: #ccc url(../image/site/bg-featured.png) repeat top left;
+    background: #ccc url(../../image/site/bg-featured.png) repeat top left;
 }
 
 .view {
