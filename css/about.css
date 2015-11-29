@@ -2,39 +2,98 @@ body.whitebg{
     background: #ccc url(../image/site/bg-body-tile.png);
 }
 
-main.about {
-    padding: 35px 0 0 0;
+
+
+main.infopage {
+    padding: 10px 0 0 0;
     position: relative;
     background-color: #444444;
     padding-top:25px;
     background: #ccc url(../image/site/bg-body-tile.png);
     height:650px;
-    font: 14px/1.5em Helvetica, Arial, sans-serif;
+    /*font: 14px/1.5em Helvetica, Arial, sans-serif;*/
+
+    font-size: 11px;
+    font-family: 'Open Sans', sans-serif;
+    color: #4A4A4A ;
+    text-align: center;
 }
 
-main.about .col-full {
-    width: 900px;
+main.infopage strong
+{
+    color: black ;
+}
+
+main.infopage p{
+    margin-top: 15px;
+    text-align: justify;
+}
+
+main.infopage h1{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 5px;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+}
+
+main.infopage a{
+    text-decoration: none;
+    color: #4A4A4A !important;
+}
+
+main.infopage a:hover{
+    text-decoration: underline;
+    color: #6B6B6B !important ;
+}
+
+
+
+main.infopage .box13, main.infopage .box2, main.infopage .box15, main.infopage .box11
+{
+    margin-top: 20px;
+    width:1100px;
+}
+
+
+main.infopage .map-container
+{
+    margin: 10px 30px 10px 30px;
+    background-color: black;
+    padding: 4px;
+}
+
+main.infopage .col-full {
+    width: 1300px;
     margin: 0 auto;
 }
 
-main.about .page {
-    padding: 30px;
-    background: #ffffff;
-    height: 560px
-}
 
-main.about .page .title {
-    font: normal bold 30px/1em arial, sans-serif;
-    position: relative;
-    margin: 0 0 0.4em;
-}
 
-.entry {
-    border-top: 1px solid #e0e0e0;
-    padding-top: 1.5em;
-    clear: both;
-}
 
-.entry p {
-    margin-bottom: 1.2em;
-}
+/*main.infopage .page {*/
+    /*padding: 30px;*/
+    /*background: #ffffff;*/
+/*}*/
+
+/*main.infopage .page .title {*/
+    /*font: normal bold 30px/1em arial, sans-serif;*/
+    /*position: relative;*/
+    /*margin: 0 0 0.4em;*/
+/*}*/
+
+/*.entry {*/
+    /*border-top: 1px solid #e0e0e0;*/
+    /*padding-top: 1.5em;*/
+    /*clear: both;*/
+/*}*/
+
+/*.entry p {*/
+    /*margin-bottom: 1.2em;*/
+/*}*/
+
+
+
+
+/*main.contacts .page {*/
+    /*height: 680px*/
+/*}*/

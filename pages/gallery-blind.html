@@ -1,0 +1,65 @@
+
+
+<main class="gallery" style="height: auto; padding-bottom: 20px;">
+    <div class="drop-shadow lifted post-103 page type-page status-publish hentry">
+        <div class="entry">
+
+            <div id="portfolio">
+
+
+                <div class="port-tags" style="padding-left:50px;">
+                    <div class="fl">
+                                <span class="port-cat">
+                                <span style="color:black; text-shadow: 1px 1px 3px rgba(0,0,0,0.3); font-size: 13px;">ШТОРЫ:</span>
+                                    <button  ng-click="filterChange('all')"
+                                             ng-class="{current: filter.blindsFilter.all}">Все</button>
+                                   <button   ng-click="filterChange('badroom')"
+                                             ng-class="{current: filter.blindsFilter.badroom}">Спальня</button>
+                                    <button  ng-click="filterChange('living')"
+                                             ng-class="{current: filter.blindsFilter.living}">Гостиная</button>
+                                    <button  ng-click="filterChange('child')"
+                                             ng-class="{current: filter.blindsFilter.child}">Детская</button>
+                                    <button  ng-click="filterChange('kitchen')"
+                                             ng-class="{current: filter.blindsFilter.kitchen}">Кухня</button>
+                                    <button  ng-click="filterChange('workroom')"
+                                             ng-class="{current: filter.blindsFilter.workroom}">Рабочая комната</button>
+                                    <button  ng-click="filterChange('other')"
+                                             ng-class="{current: filter.blindsFilter.other}">Другое</button>
+                                </span>
+                    </div>
+                    <div class="fix"></div>
+                </div><!--/#port-tags .port-tags-->
+            </div><!--/#portfolio-->
+        </div>
+        <div class="clear"></div>
+    </div><!-- /.post -->
+
+
+
+
+
+    <div class="gallery-container" style="margin: 0 auto; padding-top:20px; padding-left:20px;">
+
+        <div ng-repeat="item in category">
+
+            <div class="box2" style="float: left; width: 380px; height: 490px; margin: 10px;" ng-show="filterCategory(item.solution.category)">
+                <h1>{{item.solution.name}}</h1>
+                <img class="main-image" style="width: 340px; padding:20px;" ng-src="{{item.solution.main}}"/>
+                <p>
+                    {{item.solution.description}}
+                </p>
+                <div style="margin: 0 auto; width: 380px;">
+                    <ng-gallery images="item.solution.images"  ng-show="true" style="margin: 20px;" >
+                    </ng-gallery>
+                </div>
+            </div>
+            </div>
+
+
+        </div>
+
+    </div>
+    <div style="clear:both;"></div>
+
+</main>
+

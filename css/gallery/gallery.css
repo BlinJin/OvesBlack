@@ -37,9 +37,12 @@ main.gallery {
     padding: 35px 0 0 0;
     height: 425px;
     position: relative;
-    background-color: #444444;
+    /*background-color: #444444;*/
     padding-top:25px;
-    background: #ccc url(../../image/site/bg-featured.png) repeat top left;
+    /*background: #ccc url(../../image/site/bg-featured.png) repeat top left;*/
+
+    background-color: #444444;
+    background: #ccc url(../../image/site/bg-body-tile.png);
 }
 
 .view {
@@ -155,4 +158,18 @@ main.gallery {
     opacity:1;
     transform: translateY(0px);
     transition-delay: 0.3s;
+}
+
+
+
+.gallery-container h1{
+    font-size: 12px;
+    font-weight: bold;
+    margin: 5px;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+    padding-left: 15px;
+}
+
+.gallery-container p{
+    margin: 10px;
 }

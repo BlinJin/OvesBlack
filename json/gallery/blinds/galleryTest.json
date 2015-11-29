@@ -5,17 +5,17 @@
       "category":"living",
       "name": "Гостиная в европейском стиле, совмещенная с комнатой отдыха",
       "description": "Портьеры выполнены из плотной ткани, насыщенно синего цвета, с контрастным геометрическим рисунком. Зона отдыха оформлена однотонными функциональными римскими шторами песочного оттенка. Связующим декором двух зон, являются подушки со сложной аппликацией",
-      "main":"image/gallery/blinds/living/solution1/solution1_1.jpg",
+      "main":"image/gallery/blinds/living/solution1/solution1_1_300.jpg",
       "images" :
       [
         {
-          "thumb": "image/gallery/blinds/living/solution1/solution1_1.jpg",
-          "img": "image/gallery/blinds/living/solution1/solution1_1.jpg",
+          "thumb": "image/gallery/blinds/living/solution1/solution1_1_300.jpg",
+          "img": "image/gallery/blinds/living/solution1/solution1_1_650.jpg",
           "description": "Гостиная 1"
         },
         {
-          "thumb": "image/gallery/blinds/living/solution1/solution1_2.jpg",
-          "img": "image/gallery/blinds/living/solution1/solution1_2.jpg",
+          "thumb": "image/gallery/blinds/living/solution1/solution1_2_300.jpg",
+          "img": "image/gallery/blinds/living/solution1/solution1_2_650.jpg",
           "description": "Гостиная 2"
         }
       ]
@@ -26,22 +26,22 @@
       "category":"living",
       "name": "Нейтральная гостиная с ярким текстильным декором",
       "description": "Портьеры в данном помещении служат прекрасным дополнением к спокойной цветовой гамме стен, растительный орнамент вносит цветовой акцент. Яркие полосатые подушки объединяют 2 зоны. Жесткий ламбрекен в мелкую клетку прекрасно балансирует акценты кухни и гостиной",
-      "main":"image/gallery/blinds/living/solution2/solution2_1.jpg",
+      "main":"image/gallery/blinds/living/solution2/solution2_1_300.jpg",
       "images" :
       [
         {
-          "thumb": "image/gallery/blinds/living/solution2/solution2_1.jpg",
-          "img": "image/gallery/blinds/living/solution2/solution2_1.jpg",
+          "thumb": "image/gallery/blinds/living/solution2/solution2_1_300.jpg",
+          "img": "image/gallery/blinds/living/solution2/solution2_1_650.jpg",
           "description": "Гостиная 1"
         },
         {
-          "thumb": "image/gallery/blinds/living/solution2/solution2_2.jpg",
-          "img": "image/gallery/blinds/living/solution2/solution2_2.jpg",
+          "thumb": "image/gallery/blinds/living/solution2/solution2_2_300.jpg",
+          "img": "image/gallery/blinds/living/solution2/solution2_2_650.jpg",
           "description": "Гостиная 2"
         },
         {
-          "thumb": "image/gallery/blinds/living/solution2/solution2_3.jpg",
-          "img": "image/gallery/blinds/living/solution2/solution2_3.jpg",
+          "thumb": "image/gallery/blinds/living/solution2/solution2_3_300.jpg",
+          "img": "image/gallery/blinds/living/solution2/solution2_3_650.jpg",
           "description": "Гостиная 2"
         }
       ]
@@ -52,23 +52,23 @@
       "category":"living",
       "name": "Светлая гостиная в нежных бирюзовых тонах",
       "description": "Двуцветная портьера на подхватах без тюли, открывает вид из окна, прекрасно дополняет цветовую гамму дивана, служит связующим элементом мебели и светлых стен. Весь текстиль выполнен исключительно из натуральных материалов, что идеально вписывается в общую концепцию загородного дома",
-      "main":"image/gallery/blinds/living/solution3/solution3_1.jpg",
+      "main":"image/gallery/blinds/living/solution3/solution3_3_300.jpg",
       "images" :
       [
         {
-          "thumb": "image/gallery/blinds/living/solution3/solution3_1.jpg",
-          "img": "image/gallery/blinds/living/solution3/solution3_1.jpg",
+          "thumb": "image/gallery/blinds/living/solution3/solution3_1_300.jpg",
+          "img": "image/gallery/blinds/living/solution3/solution3_1_650.jpg",
           "description": "Гостиная 1"
         },
         {
-          "thumb": "image/gallery/blinds/living/solution3/solution3_2.jpg",
-          "img": "image/gallery/blinds/living/solution3/solution3_2.jpg",
+          "thumb": "image/gallery/blinds/living/solution3/solution3_2_300.jpg",
+          "img": "image/gallery/blinds/living/solution3/solution3_2_650.jpg",
           "description": "Гостиная 2"
         },
         {
-          "thumb": "image/gallery/blinds/living/solution3/solution3_3.jpg",
-          "img": "image/gallery/blinds/living/solution3/solution3_3.jpg",
-          "description": "Гостиная 2"
+          "thumb": "image/gallery/blinds/living/solution3/solution3_3_300.jpg",
+          "img": "image/gallery/blinds/living/solution3/solution3_3_650.jpg",
+          "description": "Гостиная 3"
         }
       ]
     }
@@ -78,17 +78,17 @@
       "category":"kitchen",
       "name": "Кухня-столовая в стиле Provence",
       "description": "В данном декоре использованы сочные яркие краски основной портьеры и тканей-компаньонов обивки стульев. Яркие кисти цвета фуксии и нежно травяной ламбрекен уравновешивает активные цветочные обои и портьеры, создает неповторимый шарм теплого Provence интерьера, атмосферу уюта и гостеприимства",
-      "main":"image/gallery/blinds/kitchen/solution1/solution1_1.jpg",
+      "main":"image/gallery/blinds/kitchen/solution1/solution1_1_300.jpg",
       "images" :
         [
           {
-            "thumb": "image/gallery/blinds/kitchen/solution1/solution1_1.jpg",
-            "img": "image/gallery/blinds/kitchen/solution1/solution1_1.jpg",
+            "thumb": "image/gallery/blinds/kitchen/solution1/solution1_1_300.jpg",
+            "img": "image/gallery/blinds/kitchen/solution1/solution1_1_650.jpg",
             "description": "Provence 1"
           },
           {
-            "thumb": "image/gallery/blinds/kitchen/solution1/solution2_2.jpg",
-            "img": "image/gallery/blinds/kitchen/solution1/solution2_2.jpg",
+            "thumb": "image/gallery/blinds/kitchen/solution1/solution2_2_300.jpg",
+            "img": "image/gallery/blinds/kitchen/solution1/solution2_2_650.jpg",
             "description": "Provence 2"
           }
         ]
@@ -99,22 +99,22 @@
       "category":"kitchen",
       "name": "Просторная кухня-гостиная в стиле современной классики",
       "description": "В спокойный и лаконичный интерьер гармонично вписались строгие декоративные ламбрекены с классическим рисунком и с приточным широким ярким кантом, окно при этом остается открытым, что обеспечивает хорошую светопроницаемость и прекрасно подчеркивает особенность данного стиля.",
-      "main":"image/gallery/blinds/kitchen/solution2/solution2_1.jpg",
+      "main":"image/gallery/blinds/kitchen/solution2/solution2_1_300.jpg",
       "images" :
       [
         {
-          "thumb": "image/gallery/blinds/kitchen/solution2/solution2_1.jpg",
-          "img": "image/gallery/blinds/kitchen/solution2/solution2_1.jpg",
+          "thumb": "image/gallery/blinds/kitchen/solution2/solution2_1_300.jpg",
+          "img": "image/gallery/blinds/kitchen/solution2/solution2_1_650.jpg",
           "description": "Классика 1"
         },
         {
-          "thumb": "image/gallery/blinds/kitchen/solution2/solution2_2.jpg",
-          "img": "image/gallery/blinds/kitchen/solution2/solution2_2.jpg",
+          "thumb": "image/gallery/blinds/kitchen/solution2/solution2_2_300.jpg",
+          "img": "image/gallery/blinds/kitchen/solution2/solution2_2_650.jpg",
           "description": "Классика 2"
         },
         {
-          "thumb": "image/gallery/blinds/kitchen/solution2/solution2_3.jpg",
-          "img": "image/gallery/blinds/kitchen/solution2/solution2_3.jpg",
+          "thumb": "image/gallery/blinds/kitchen/solution2/solution2_3_300.jpg",
+          "img": "image/gallery/blinds/kitchen/solution2/solution2_3_650.jpg",
           "description": "Классика 3"
         }
       ]
@@ -125,22 +125,22 @@
       "category":"kitchen",
       "name": "Неоклассическая гостиная-столовая",
       "description": "Портьеры выполнены из сатена молочного цвета с широким приточным кантом ярко-василькового цвета в верхней части. Их дизайн настолько прост, что они легко вписываются в декор самых разнообразных стилей",
-      "main":"image/gallery/blinds/kitchen/solution3/solution3_1.jpg",
+      "main":"image/gallery/blinds/kitchen/solution3/solution3_1_300.jpg",
       "images" :
       [
         {
-          "thumb": "image/gallery/blinds/kitchen/solution3/solution3_1.jpg",
-          "img": "image/gallery/blinds/kitchen/solution3/solution3_1.jpg",
+          "thumb": "image/gallery/blinds/kitchen/solution3/solution3_1_300.jpg",
+          "img": "image/gallery/blinds/kitchen/solution3/solution3_1_650.jpg",
           "description": "Неолассика 1"
         },
         {
-          "thumb": "image/gallery/blinds/kitchen/solution3/solution3_2.jpg",
-          "img": "image/gallery/blinds/kitchen/solution3/solution3_2.jpg",
+          "thumb": "image/gallery/blinds/kitchen/solution3/solution3_2_300.jpg",
+          "img": "image/gallery/blinds/kitchen/solution3/solution3_2_650.jpg",
           "description": "Неолассика 2"
         },
         {
-          "thumb": "image/gallery/blinds/kitchen/solution3/solution3_3.jpg",
-          "img": "image/gallery/blinds/kitchen/solution3/solution3_3.jpg",
+          "thumb": "image/gallery/blinds/kitchen/solution3/solution3_3_300.jpg",
+          "img": "image/gallery/blinds/kitchen/solution3/solution3_3_650.jpg",
           "description": "Неолассика 3"
         }
       ]

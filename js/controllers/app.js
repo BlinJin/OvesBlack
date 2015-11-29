@@ -22,9 +22,14 @@ myApp.config(function($stateProvider, $urlRouterProvider) {
             url: "/event",
             templateUrl: "pages/events.html"
         })
-        .state('gallery', {
-            url: "/gallery",
-            templateUrl: "pages/gallery.html",
+        .state('gallery-blind', {
+            url: "/gallery-blind",
+            templateUrl: "pages/gallery-blind.html",
+            controller:"GalleryController"
+        })
+        .state('gallery-fire', {
+            url: "/gallery-fire",
+            templateUrl: "pages/gallery-fire.html",
             controller:"GalleryController"
         })
         .state('contacts', {

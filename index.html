@@ -6,15 +6,13 @@
     <link rel="shortcut icon" href=" image/site/logo_oves_small.png">
     <link rel="stylesheet" type="text/css" href="css/main.css">
     <link rel="stylesheet" type="text/css" href="css/about.css">
+    <link rel="stylesheet" type="text/css" href="css/boxes.css">
     <link rel="stylesheet" type="text/css" href="css/gallery/gallery.css">
     <link rel="stylesheet" type="text/css" href="js/bower_components/ngGallery/src/css/ngGallery.css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
 </head>
-<body ng-app="myApp" ng-controller="MainController"
-      ng-class="{whitebg: state.includes('about') ||
-      state.includes('events')  ||  state.includes('contacts')
-      || state.includes('calldesign'), blackbg:state.includes('gallery')}">
+<body ng-app="myApp" ng-controller="MainController">
 <header>
     <nav>
         <!--<span ng-bind="navData.hello"></span>-->
@@ -27,7 +25,8 @@
             <li ui-sref-active="active"><a ui-sref="main">Главная</a></li>
             <li ui-sref-active="active"><a ui-sref="about">О Нас</a></li>
             <li ui-sref-active="active"><a ui-sref="event">События</a></li>
-            <li ui-sref-active="active"><a ui-sref="gallery">Галерея</a></li>
+            <li ui-sref-active="active"><a ui-sref="gallery-blind">Шторы</a> </li>
+            <li ui-sref-active="active"><a ui-sref="gallery-fire">Камины</a> </li>
             <li ui-sref-active="active"><a ui-sref="contacts">Контакты</a></li>
             <li ui-sref-active="active"><a ui-sref="calldesign">Вызов дизайнера</a></li>
         </ul>
