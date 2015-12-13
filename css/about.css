@@ -27,6 +27,7 @@ main.infopage strong
 main.infopage p{
     margin-top: 15px;
     text-align: justify;
+    color: #362A2A;
 }
 
 main.infopage h1{

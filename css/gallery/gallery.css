@@ -160,7 +160,9 @@ main.gallery {
     transition-delay: 0.3s;
 }
 
-
+.gallery-container .box2 p{
+    color: #362A2A;
+}
 
 .gallery-container h1{
     font-size: 12px;
