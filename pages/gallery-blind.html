@@ -1,12 +1,7 @@
-
-
 <main class="gallery" style="height: auto; padding-bottom: 20px;">
     <div class="drop-shadow lifted post-103 page type-page status-publish hentry">
         <div class="entry">
-
             <div id="portfolio">
-
-
                 <div class="port-tags" style="padding-left:50px;">
                     <div class="fl">
                                 <span class="port-cat">
@@ -21,27 +16,21 @@
                                              ng-class="{current: filter.blindsFilter.child}">Детская</button>
                                     <button  ng-click="filterChange('kitchen')"
                                              ng-class="{current: filter.blindsFilter.kitchen}">Кухня</button>
-                                    <button  ng-click="filterChange('workroom')"
-                                             ng-class="{current: filter.blindsFilter.workroom}">Рабочая комната</button>
+                                    <button  ng-click="filterChange('cabinet')"
+                                             ng-class="{current: filter.blindsFilter.cabinet}">Кабинет</button>
                                     <button  ng-click="filterChange('other')"
                                              ng-class="{current: filter.blindsFilter.other}">Другое</button>
                                 </span>
                     </div>
                     <div class="fix"></div>
-                </div><!--/#port-tags .port-tags-->
-            </div><!--/#portfolio-->
+                </div>
+            </div>
         </div>
         <div class="clear"></div>
-    </div><!-- /.post -->
-
-
-
-
+    </div>
 
     <div class="gallery-container" style="margin: 0 auto; padding-top:20px; padding-left:20px;">
-
         <div ng-repeat="item in category">
-
             <div class="box2" style="float: left; width: 380px; height: 490px; margin: 10px;" ng-show="filterCategory(item.solution.category)">
                 <h1>{{item.solution.name}}</h1>
                 <img class="main-image" style="width: 340px; padding:20px;" ng-src="{{item.solution.main}}"/>
@@ -54,8 +43,6 @@
                 </div>
             </div>
             </div>
-
-
         </div>
 
     </div>

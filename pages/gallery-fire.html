@@ -1,78 +1,45 @@
-
-
-<main class="gallery" style="height: auto; padding-bottom: 20px; display: none;">
+<main class="gallery" style="height: auto; padding-bottom: 20px;">
     <div class="drop-shadow lifted post-103 page type-page status-publish hentry">
         <div class="entry">
-
             <div id="portfolio">
-
-                <!--<div class="port-tags">-->
-                <!--<div class="fl">-->
-
-                <!--<span class="port-cat">-->
-                <!--Камины:-->
-                <!--<button  ng-click="filter.fireFilter.all=!filter.fireFilter.all" ng-class="{current: filter.fireFilter.all}">Все</button>-->
-                <!--<button ng-click="filter.fireFilter.cat1=!filter.fireFilter.cat1" ng-class="{current: filter.fireFilter.cat1}">Категория 1</button>-->
-                <!--<button ng-click="filter.fireFilter.cat2=!filter.fireFilter.cat2" ng-class="{current: filter.fireFilter.cat2}">Категория 2</button>-->
-                <!--</span>-->
-                <!--</div>&lt;!&ndash;/.fl&ndash;&gt;-->
-                <!--<div class="fix"></div>-->
-
-                <!--</div>&lt;!&ndash;/#port-tags .port-tags&ndash;&gt;-->
-
                 <div class="port-tags" style="padding-left:50px;">
                     <div class="fl">
                                 <span class="port-cat">
-                                <span style="color:black; text-shadow: 1px 1px 3px rgba(0,0,0,0.3); font-size: 13px;">Камины:</span>
+                                <span style="color:black; text-shadow: 1px 1px 3px rgba(0,0,0,0.3); font-size: 13px;">КАМИНЫ:</span>
                                     <button  ng-click="filterChange('all')"
-                                             ng-class="{current: filter.blindsFilter.all}">Все</button>
-                                   <button   ng-click="filterChange('badroom')"
-                                             ng-class="{current: filter.blindsFilter.badroom}">Спальня</button>
-                                    <button  ng-click="filterChange('living')"
-                                             ng-class="{current: filter.blindsFilter.living}">Гостиная</button>
-                                    <button  ng-click="filterChange('child')"
-                                             ng-class="{current: filter.blindsFilter.child}">Детская</button>
-                                    <button  ng-click="filterChange('kitchen')"
-                                             ng-class="{current: filter.blindsFilter.kitchen}">Кухня</button>
-                                    <button  ng-click="filterChange('workroom')"
-                                             ng-class="{current: filter.blindsFilter.workroom}">Рабочая комната</button>
-                                    <button  ng-click="filterChange('other')"
-                                             ng-class="{current: filter.blindsFilter.other}">Другое</button>
+                                             ng-class="{current: filter.fireFilter.all}">Все</button>
+                                   <button   ng-click="filterChange('electrofire')"
+                                             ng-class="{current: filter.fireFilter.electrofire}">Электрокамины</button>
+                                    <button  ng-click="filterChange('biofire')"
+                                             ng-class="{current: filter.fireFilter.biofire}">Биокамины</button>
+                                    <button  ng-click="filterChange('portals')"
+                                             ng-class="{current: filter.fireFilter.portals}">Порталы</button>
                                 </span>
                     </div>
                     <div class="fix"></div>
-                </div><!--/#port-tags .port-tags-->
-            </div><!--/#portfolio-->
-        </div>
-        <div class="clear"></div>
-    </div><!-- /.post -->
-
-
-
-
-
-    <div class="gallery-container" style="margin: 0 auto; padding-top:20px; padding-left:20px;">
-
-        <div ng-repeat="item in category">
-            <div class="view view-sixth" ng-show="filterCategory(item.solution.category)">
-
-                <img class="main-image" ng-src="{{item.solution.main}}" style="width: 400px; height: 267px;"/>
-
-                <div class="mask">
-                    <h2>{{item.solution.name}}</h2>
-                    <p>{{item.solution.description}}</p>
-                    <!--<a class="info" ng-click="showGallery()">Смотреть</a>-->
-                    <div style="margin: 0 auto; width: 350px;">
-                        <ng-gallery images="item.solution.images" ng-show="true" >
-                        </ng-gallery>
-                    </div>
                 </div>
-
             </div>
         </div>
+        <div class="clear"></div>
+    </div>
+
+    <div class="gallery-container" style="margin: 0 auto; padding-top:20px; padding-left:20px;">
+        <div ng-repeat="item in categoryFire">
+            <div class="box2" style="float: left; width: 380px; height: 490px; margin: 10px;" ng-show="filterCategory(item.solution.category)">
+                <h1>{{item.solution.name}}</h1>
+                <img class="main-image" style="width: 340px; padding:20px;" ng-src="{{item.solution.main}}"/>
+                <p>
+                    {{item.solution.description}}
+                </p>
+                <div style="margin: 0 auto; width: 380px;">
+                    <ng-gallery images="item.solution.images"  ng-show="true" style="margin: 20px;" >
+                    </ng-gallery>
+                </div>
+            </div>
+        </div>
+    </div>
 
     </div>
     <div style="clear:both;"></div>
-
 </main>
 

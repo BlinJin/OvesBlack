@@ -1,0 +1,803 @@
+
+
+[
+
+  {
+
+    "solution": {
+
+      "category":"living",
+
+      "name": "Гостиная, совмещенная с комнатой отдыха",
+
+      "description": "Портьеры выполнены из плотной ткани, насыщенно синего цвета, с контрастным геометрическим рисунком. Зона отдыха оформлена однотонными функциональными римскими шторами песочного оттенка. Связующим декором двух зон, являются подушки со сложной аппликацией",
+
+      "main":"image/gallery/blinds/living/solution1/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/blinds/living/solution1/solution1_1_400.jpg",
+
+          "img": "image/gallery/blinds/living/solution1/solution1_1_650.jpg",
+
+          "description": "Гостиная 1"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/living/solution1/solution1_2_400.jpg",
+
+          "img": "image/gallery/blinds/living/solution1/solution1_2_650.jpg",
+
+          "description": "Гостиная 2"
+
+        }
+
+      ]
+
+    }
+
+  },
+{
+
+    "solution": {
+
+      "category":"living",
+
+      "name": "Гостиная в европейском стиле",
+
+      "description": "Портьеры выполнены из плотной ткани, насыщенно синего цвета, с контрастным геометрическим рисунком. шторами оттенка.",
+
+      "main":"image/gallery/blinds/living/solution4/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/blinds/living/solution4/solution1_1_400.jpg",
+
+          "img": "image/gallery/blinds/living/solution4/solution1_1_650.jpg",
+
+          "description": "Гостиная 1"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/living/solution4/solution1_2_400.jpg",
+
+          "img": "image/gallery/blinds/living/solution4/solution1_2_650.jpg",
+
+          "description": "Гостиная 3"
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/living/solution4/solution1_3_400.jpg",
+
+          "img": "image/gallery/blinds/living/solution4/solution1_3_650.jpg",
+
+          "description": "Гостиная 2"
+
+
+        }
+
+      ]
+
+    }
+
+  },
+  {
+
+    "solution": {
+
+      "category":"kitchen",
+
+      "name": "Кухня-столовая в стиле Provence",
+
+      "description": "Портьеры в стиле Provence создают неповторимую теплую ауру и легкий флер данному интерьеру, а так же дают большую свободу по декорированию окна используя ткани компаньоны и множество декоративных элементов. ",
+
+      "main":"image/gallery/blinds/kitchen/solution4/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/blinds/kitchen/solution4/solution1_1_400.jpg",
+
+          "img": "image/gallery/blinds/kitchen/solution4/solution1_1_650.jpg",
+
+          "description": "Provence"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/kitchen/solution4/solution1_2_300.jpg",
+
+          "img": "image/gallery/blinds/kitchen/solution4/solution1_2_650.jpg",
+
+          "description": "Provence"
+
+        }
+
+      ]
+
+    }
+
+  },
+  {
+
+    "solution": {
+
+      "category":"living",
+
+      "name": "Нейтральная гостиная с ярким текстильным декором",
+
+      "description": "Портьеры в данном помещении служат прекрасным дополнением к спокойной цветовой гамме стен, растительный орнамент вносит цветовой акцент. Яркие полосатые подушки объединяют 2 зоны. Жесткий ламбрекен в мелкую клетку прекрасно балансирует акценты кухни и гостиной",
+
+      "main":"image/gallery/blinds/living/solution2/solution2_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/blinds/living/solution2/solution2_1_400.jpg",
+
+          "img": "image/gallery/blinds/living/solution2/solution2_1_650.jpg",
+
+          "description": "Гостиная 1"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/living/solution2/solution2_2_400.jpg",
+
+          "img": "image/gallery/blinds/living/solution2/solution2_2_650.jpg",
+
+          "description": "Гостиная 2"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/living/solution2/solution2_3_400.jpg",
+
+          "img": "image/gallery/blinds/living/solution2/solution2_3_650.jpg",
+
+          "description": "Гостиная 2"
+
+        }
+
+      ]
+
+    }
+
+  },
+
+  {
+
+    "solution": {
+
+      "category":"living",
+
+      "name": "Светлая гостиная в нежных бирюзовых тонах",
+
+      "description": "Двуцветная портьера на подхватах без тюли, открывает вид из окна, прекрасно дополняет цветовую гамму дивана, служит связующим элементом мебели и светлых стен. Весь текстиль выполнен исключительно из натуральных материалов, что идеально вписывается в общую концепцию загородного дома",
+
+      "main":"image/gallery/blinds/living/solution3/solution3_3_300.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/blinds/living/solution3/solution3_1_300.jpg",
+
+          "img": "image/gallery/blinds/living/solution3/solution3_1_650.jpg",
+
+          "description": "Гостиная 1"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/living/solution3/solution3_2_300.jpg",
+
+          "img": "image/gallery/blinds/living/solution3/solution3_2_650.jpg",
+
+          "description": "Гостиная 2"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/living/solution3/solution3_3_300.jpg",
+
+          "img": "image/gallery/blinds/living/solution3/solution3_3_650.jpg",
+
+          "description": "Гостиная 3"
+
+        }
+
+      ]
+
+    }
+
+  },
+
+    {
+
+    "solution": {
+
+      "category":"kitchen",
+
+      "name": "Просторная кухня-гостиная в стиле современной классики",
+
+      "description": "В спокойный и лаконичный интерьер гармонично вписались строгие декоративные ламбрекены с приточным широким ярким кантом, окно при этом остается открытым, что обеспечивает хорошую светопроницаемость и прекрасно подчеркивает особенность данного стиля.",
+
+      "main":"image/gallery/blinds/kitchen/solution2/solution2_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/blinds/kitchen/solution2/solution2_1_400.jpg",
+
+          "img": "image/gallery/blinds/kitchen/solution2/solution2_1_650.jpg",
+
+          "description": "Modern classik"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/kitchen/solution2/solution2_2_400.jpg",
+
+          "img": "image/gallery/blinds/kitchen/solution2/solution2_2_650.jpg",
+
+          "description": "Modern classik"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/kitchen/solution2/solution2_3_400.jpg",
+
+          "img": "image/gallery/blinds/kitchen/solution2/solution2_3_650.jpg",
+
+          "description": "Modern classik"
+
+        }
+
+      ]
+
+    }
+
+  },
+
+  {
+
+    "solution": {
+
+      "category":"kitchen",
+
+      "name": "Неоклассическая гостиная-столовая",
+
+      "description": "Портьеры выполнены из сатена молочного цвета с широким приточным кантом ярко-василькового цвета в верхней части. Их дизайн настолько прост, что они легко вписываются в декор самых разнообразных стилей",
+
+      "main":"image/gallery/blinds/kitchen/solution3/solution3_1_300.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/blinds/kitchen/solution3/solution3_1_300.jpg",
+
+          "img": "image/gallery/blinds/kitchen/solution3/solution3_1_650.jpg",
+
+          "description": "Неолассика 1"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/kitchen/solution3/solution3_2_300.jpg",
+
+          "img": "image/gallery/blinds/kitchen/solution3/solution3_2_650.jpg",
+
+          "description": "Неолассика 2"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/kitchen/solution3/solution3_3_300.jpg",
+
+          "img": "image/gallery/blinds/kitchen/solution3/solution3_3_650.jpg",
+
+          "description": "Неолассика 3"
+
+        }
+
+      ]
+
+    }
+
+  },
+ {
+
+    "solution": {
+
+      "category":"living",
+
+      "name": "Гостиная в стиле Шебби шик",
+
+      "description": "Гостиная в стиле Шебби шик",
+
+      "main":"image/gallery/blinds/living/solution5/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/blinds/living/solution5/solution1_1_400.jpg",
+
+          "img": "image/gallery/blinds/living/solution5/solution1_1_650.jpg",
+
+          "description": "Shabby"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/living/solution5/solution1_2_400.jpg",
+
+          "img": "image/gallery/blinds/living/solution5/solution1_2_650.jpg",
+
+          "description": "Shabby"
+
+        }
+
+      ]
+
+    }
+
+  },
+{
+
+    "solution": {
+
+      "category":"living",
+
+      "name": "В стиле сдержанной классики   ",
+
+      "description": "Портьеры с кантами выполнены из глянцевой ткани,в интерьере выдержанна строгость линий и пропорций. Гардина служит элементом баланса,а так же добавляет элегантность сложным окнам. ",
+
+      "main":"image/gallery/blinds/living/solution6/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/blinds/living/solution6/solution1_1_400.jpg",
+
+          "img": "image/gallery/blinds/living/solution6/solution1_1_650.jpg",
+
+          "description": "Гостиная 1"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/living/solution6/solution1_2_400.jpg",
+
+          "img": "image/gallery/blinds/living/solution6/solution1_2_650.jpg",
+
+          "description": "Гостиная 3"
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/living/solution6/solution1_3_400.jpg",
+
+          "img": "image/gallery/blinds/living/solution6/solution1_3_650.jpg",
+
+          "description": "Гостиная 2"
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/living/solution6/solution1_4_400.jpg",
+
+          "img": "image/gallery/blinds/living/solution6/solution1_4_650.jpg",
+
+          "description": "Гостиная 2"
+
+
+
+
+        }
+
+      ]
+
+    }
+
+  },
+{
+
+    "solution": {
+
+      "category":"badroom",
+
+      "name": "Современная спальня с яркими акцентами",
+
+      "description": "Текстильное оформление спальни выполнено из плотного бархата, драпированного в густую складку, насыщенного цвета. Покрывало и подушки прекрасно гармонируют с тональностью стен, создавая единое пространство спального места и комнаты. Основными акцентами выступают портьеры и бархатная обивка кресла.",
+
+      "main":"image/gallery/blinds/badroom/solution1/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/blinds/badroom/solution1/solution1_1_400.jpg",
+
+          "img": "image/gallery/blinds/badroom/solution1/solution1_1_650.jpg",
+
+          "description": "Акцент на бархат"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/badroom/solution1/solution1_2_400.jpg",
+
+          "img": "image/gallery/blinds/badroom/solution1/solution1_2_650.jpg",
+
+          "description": "Акцент на бархат"
+
+        }
+
+      ]
+
+    }
+
+  },
+{
+
+    "solution": {
+
+      "category":"badroom",
+
+      "name": "Изящная спальня с балдахином ",
+
+      "description": "Классический интерьер спальни богат сложными текстильными формами и яркими цветами деталей. Окно выполнено в традиционных формах, портьеры задекорированы в большом объеме на подхватах, жесткий ламбрекен  розовыми портьерами на подхватах, драпированными  в мягкую складку.",
+
+      "main":"image/gallery/blinds/badroom/solution2/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/blinds/badroom/solution2/solution1_1_400.jpg",
+
+          "img": "image/gallery/blinds/badroom/solution2/solution1_1_650.jpg",
+
+          "description": "Акцент на бархат"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/badroom/solution2/solution1_2_400.jpg",
+
+          "img": "image/gallery/blinds/badroom/solution2/solution1_2_650.jpg",
+
+          "description": "Акцент на бархат"
+
+        }
+
+      ]
+
+    }
+
+  },
+{
+
+    "solution": {
+
+      "category":"living",
+
+      "name": "Гостиная, совмещенная с кухней",
+
+      "description": "Портьеры в горизонтальную полоску привносят в интерьер деликатный акцент, сохранив при этом баланс цветов и изящность форм, прозрачная гардина дает возможность наслаждаться видом из окна. ",
+
+      "main":"image/gallery/blinds/living/solution7/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/blinds/living/solution7/solution1_1_400.jpg",
+
+          "img": "image/gallery/blinds/living/solution7/solution1_1_650.jpg",
+
+          "description": "Современная классика"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/living/solution7/solution1_2_400.jpg",
+
+          "img": "image/gallery/blinds/living/solution7/solution1_2_650.jpg",
+
+          "description": "Современная классика"
+
+        }
+
+      ]
+
+    }
+
+  },
+{
+
+    "solution": {
+
+      "category":"other",
+
+      "name": "Портьерные ткани с геометрическим рисунком",
+
+      "description": " Ткани с геометрическим рисунком, придадут стиль самому простому интерьеру. Немного стильной геометрии и Ваш интерьер оживится необычными элементами.",
+
+      "main":"image/gallery/blinds/other/solution1/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/blinds/other/solution1/solution1_1_400.jpg",
+
+          "img": "image/gallery/blinds/other/solution1/solution1_1_650.jpg",
+
+          "description": "Cube"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/other/solution1/solution1_2_400.jpg",
+
+          "img": "image/gallery/blinds/other/solution1/solution1_2_650.jpg",
+
+          "description": "Cube"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/other/solution1/solution1_3_400.jpg",
+
+          "img": "image/gallery/blinds/other/solution1/solution1_3_650.jpg",
+
+          "description": "Cube"
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/other/solution1/solution1_4_400.jpg",
+
+          "img": "image/gallery/blinds/other/solution1/solution1_4_650.jpg",
+
+          "description": "Cube"
+ }
+
+      ]
+
+    }
+
+  },
+{
+
+    "solution": {
+
+      "category":"other",
+
+      "name": "Восточные мотивы ",
+
+      "description": "Таинственная коллекция в восточном стиле, бесспорно, привнесет атмосферу уюта и теплоту интерьера. Богатые бархатные ткани, создадут загадочную обстановку.",
+
+      "main":"image/gallery/blinds/other/solution2/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/blinds/other/solution2/solution1_1_400.jpg",
+
+          "img": "image/gallery/blinds/other/solution2/solution1_1_650.jpg",
+
+          "description": "Grand"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/other/solution2/solution1_2_400.jpg",
+
+          "img": "image/gallery/blinds/other/solution2/solution1_2_650.jpg",
+
+          "description": "Grand"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/other/solution2/solution1_3_400.jpg",
+
+          "img": "image/gallery/blinds/other/solution2/solution1_3_650.jpg",
+
+          "description": "Grand"
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/other/solution2/solution1_4_400.jpg",
+
+          "img": "image/gallery/blinds/other/solution2/solution1_4_650.jpg",
+
+          "description": "Grand"
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/other/solution2/solution1_5_400.jpg",
+
+          "img": "image/gallery/blinds/other/solution2/solution1_5_650.jpg",
+
+          "description": "Grand"
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/other/solution2/solution1_6_400.jpg",
+
+          "img": "image/gallery/blinds/other/solution2/solution1_6_650.jpg",
+
+          "description": "Grand"
+
+
+        }
+
+      ]
+
+    }
+
+  },
+{
+
+    "solution": {
+
+      "category":"child",
+
+      "name": "Детская в стиле Кантри, с элементами пэчворк",
+
+      "description": " Стиль кантри широко используется в наше время. Подходит прекрасно для детских комнат, переносит нас в цветущие летние дни.",
+
+      "main":"image/gallery/blinds/child/solution1/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/blinds/child/solution1/solution1_1_400.jpg",
+
+          "img": "image/gallery/blinds/child/solution1/solution1_1_650.jpg",
+
+          "description": "Кантри"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/child/solution1/solution1_2_400.jpg",
+
+          "img": "image/gallery/blinds/child/solution1/solution1_2_650.jpg",
+
+          "description": "Кантри"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/child/solution1/solution1_3_400.jpg",
+
+          "img": "image/gallery/blinds/child/solution1/solution1_3_650.jpg",
+
+          "description": "Кантри"       
+       
+        }
+
+      ]
+
+    }
+
+  },
+{
+
+    "solution": {
+
+      "category":"child",
+
+      "name": "Детская для девочки",
+
+      "description": " Спальня для девочки с романтическим настроением.",
+
+      "main":"image/gallery/blinds/child/solution2/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/blinds/child/solution2/solution1_1_400.jpg",
+
+          "img": "image/gallery/blinds/child/solution2/solution1_1_650.jpg",
+
+          "description": "Кантри"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/blinds/child/solution2/solution1_2_400.jpg",
+
+          "img": "image/gallery/blinds/child/solution2/solution1_2_650.jpg",
+
+          "description": "Кантри"
+
+       }
+
+      ]
+
+    }
+
+  }
+
+]
+

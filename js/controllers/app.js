@@ -25,12 +25,12 @@ myApp.config(function($stateProvider, $urlRouterProvider) {
         .state('gallery-blind', {
             url: "/gallery-blind",
             templateUrl: "pages/gallery-blind.html",
-            controller:"GalleryController"
+            controller:"GalleryControllerBlinds"
         })
         .state('gallery-fire', {
             url: "/gallery-fire",
             templateUrl: "pages/gallery-fire.html",
-            controller:"GalleryController"
+            controller:"GalleryControllerFire"
         })
         .state('contacts', {
             url: "/contacts",
@@ -38,21 +38,14 @@ myApp.config(function($stateProvider, $urlRouterProvider) {
         })
         .state('calldesign', {
             url: "/calldesign",
-            templateUrl: "pages/backform.html"
+            templateUrl: "pages/backform.html",
+            controller:"BackFormController"
         });
 });
 
 
 myApp.controller('GreetingController', ['$scope', '$http',  function($scope, $http) {
-    $scope.greeting = 'Hola!';
     $scope.whitebg = "black";
-    $http.get('./json/mainpage.json').success(function (data) {
-        $scope.mainPageData= data;
-    }).
-        error(function () {
-
-        });
-
 
 }]);
 
@@ -66,74 +59,29 @@ myApp.controller('MainController', ['$scope', '$http', '$state', function($scope
         error(function () {
 
         });
-
-
 }]);
 
 
 
-myApp.controller('GalleryController', ['$scope', '$http', '$state', function($scope, $http, $state) {
+myApp.controller('GalleryControllerBlinds', ['$scope', '$http', '$state', function($scope, $http, $state) {
     $scope.state = $state;
     $scope.filter = {
-        "fireFilter":[
-            {"all" : false},
-            {"cat1" : false},
-            {"cat2" : false}
-        ],
         "blindsFilter":[
             {"all" : true},
             {"badroom" : false},
             {"child" : false},
             {"kitchen" : false},
             {"living" : false},
-            {"workroom" : false},
+            {"cabinet" : false},
             {"other" : false}
         ]
     };
     $scope.category={};
+    $scope.categoryFire={};
 
-    $http.get('./json/gallery/blinds/galleryTest.json').success(function (data) {
+    $http.get('./json/gallery/blinds/gallery_blinds.json').success(function (data) {
         $scope.category  = data;
-        //alert(JSON.stringify($scope.category, null, 4));
     });
-
-
-    $scope.solution2= {};
-    //$scope.solution2.images = [
-    //    {thumb: 'image/gallery/blinds/badroom/1.jpg', img: 'image/gallery/blinds/badroom/1.jpg', description: 'Image 1'},
-    //    {thumb: 'image/gallery/blinds/badroom/1.jpg', img: 'image/gallery/blinds/badroom/1.jpg', description: 'Image 2'},
-    //    {thumb: 'image/gallery/blinds/badroom/1.jpg', img: 'image/gallery/blinds/badroom/1.jpg', description: 'Image 3'},
-    //    {thumb: 'image/gallery/blinds/badroom/1.jpg', img: 'image/gallery/blinds/badroom/1.jpg', description: 'Image 4'},
-    //    {thumb: 'image/gallery/blinds/badroom/1.jpg', img: 'image/gallery/blinds/badroom/1.jpg', description: 'Image 1'},
-    //    {thumb: 'image/gallery/blinds/badroom/1.jpg', img: 'image/gallery/blinds/badroom/1.jpg', description: 'Image 2'},
-    //    {thumb: 'image/gallery/blinds/badroom/1.jpg', img: 'image/gallery/blinds/badroom/1.jpg', description: 'Image 3'},
-    //    {thumb: 'image/gallery/blinds/badroom/1.jpg', img: 'image/gallery/blinds/badroom/1.jpg', description: 'Image 4'},
-    //    {thumb: 'image/gallery/blinds/badroom/1.jpg', img: 'image/gallery/blinds/badroom/1.jpg', description: 'Image 1'},
-    //    {thumb: 'image/gallery/blinds/badroom/1.jpg', img: 'image/gallery/blinds/badroom/1.jpg', description: 'Image 2'}
-    //];
-
-    //$scope.solution2.images =[
-    //    {
-    //        "thumb": "image/gallery/blinds/badroom/1.jpg",
-    //        "img": "image/gallery/blinds/badroom/1.jpg",
-    //        "description": "Image"
-    //    },
-    //    {
-    //        "thumb": "image/gallery/blinds/badroom/1.jpg",
-    //        "img": "image/gallery/blinds/badroom/1.jpg",
-    //        "description": "Image "
-    //    },
-    //    {
-    //        "thumb": "image/gallery/blinds/badroom/1.jpg",
-    //        "img": "image/gallery/blinds/badroom/1.jpg",
-    //        "description": "Image "
-    //    },
-    //    {
-    //        "thumb": "image/gallery/blinds/badroom/1.jpg",
-    //        "img": "image/gallery/blinds/badroom/1.jpg",
-    //        "description": "Image "
-    //    }
-    //]
 
     $scope.filterChange = function(param)
     {
@@ -144,7 +92,7 @@ myApp.controller('GalleryController', ['$scope', '$http', '$state', function($sc
             $scope.filter.blindsFilter.child = true;
             $scope.filter.blindsFilter.kitchen = true;
             $scope.filter.blindsFilter.living = true;
-            $scope.filter.blindsFilter.workroom = true;
+            $scope.filter.blindsFilter.cabinet = true;
             $scope.filter.blindsFilter.other = true;
         }
         else {
@@ -153,7 +101,7 @@ myApp.controller('GalleryController', ['$scope', '$http', '$state', function($sc
             $scope.filter.blindsFilter.child = false;
             $scope.filter.blindsFilter.kitchen = false;
             $scope.filter.blindsFilter.living = false;
-            $scope.filter.blindsFilter.workroom = false;
+            $scope.filter.blindsFilter.cabinet = false;
             $scope.filter.blindsFilter.other = false;
             $scope.filter.blindsFilter[param] = !$scope.filter.blindsFilter[param];
         }
@@ -163,19 +111,79 @@ myApp.controller('GalleryController', ['$scope', '$http', '$state', function($sc
     $scope.filter.blindsFilter.child = true;
     $scope.filter.blindsFilter.kitchen = true;
     $scope.filter.blindsFilter.living = true;
-    $scope.filter.blindsFilter.workroom = true;
+    $scope.filter.blindsFilter.cabinet = true;
     $scope.filter.blindsFilter.other = true;
 
 
     $scope.filterCategory = function(category)
     {
-        debugger;
         return $scope.filter.blindsFilter[category];
     };
 
     $http.get('./json/category.json').success(function (data) {
         $scope.navData= data;
     });
+}]);
 
+myApp.controller('GalleryControllerFire', ['$scope', '$http', '$state', function($scope, $http, $state) {
+    $scope.state = $state;
+    $scope.filter = {
+        "fireFilter":[
+            {"all" : true},
+            {"electrofire" : false},
+            {"biofire" : false},
+            {"portals" : false}
+        ]
+    };
+    $scope.categoryFire={};
+    $http.get('./json/gallery/fire/gallery_fire.json').success(function (data) {
+        $scope.categoryFire  = data;
+        //alert(JSON.stringify($scope.categoryFire, null, 4));
+    });
+
+    $scope.filterChange = function(param)
+    {
+        if (param == 'all')
+        {
+            $scope.filter.fireFilter.all = true;
+            $scope.filter.fireFilter.electrofire = true;
+            $scope.filter.fireFilter.biofire = true;
+            $scope.filter.fireFilter.portals = true;
+        }
+        else {
+            $scope.filter.fireFilter.all = false;
+            $scope.filter.fireFilter.electrofire = false;
+            $scope.filter.fireFilter.biofire = false;
+            $scope.filter.fireFilter.portals = false;
+            $scope.filter.fireFilter[param] = !$scope.filter.fireFilter[param];
+        }
+    };
+    $scope.filterChange('all');
+
+    $scope.filterCategory = function(category)
+    {
+        return $scope.filter.fireFilter[category];
+    };
+
+    $http.get('./json/category.json').success(function (data) {
+        $scope.navData= data;
+    });
+
+
+}]);
+myApp.controller('BackFormController', ['$scope', '$http', '$state', function($scope, $http, $state) {
+    $scope.sendEmail = function()
+    {
+        alert("sending email");
+        var obj = "Chris 2222";
+        emailjs.send("yandex","yandex",
+            {
+                "name": obj,
+                "value": 10000,
+                "taxed_value": 10000 - (10000 * 0.4),
+                "in_ca": true
+            }
+        );
+    }
 
 }]);

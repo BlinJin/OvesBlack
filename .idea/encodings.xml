@@ -2,7 +2,8 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/js/bower_components/ngGallery/src/js/ngGallery.js" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/json/gallery/blinds/galleryTest.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/json/gallery/blinds/gallery_blinds.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/json/gallery/fire/gallery_fire.json" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pages/gallery-blind.html" charset="UTF-8" />
   </component>
 </project>

@@ -1,0 +1,133 @@
+
+
+[
+
+  {
+
+    "solution": {
+
+      "category":"electrofire",
+
+      "name": "Электрические камины",
+
+      "description": "Описание",
+
+      "main":"image/gallery/fire/electrofire/solution1/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution1/solution1_1_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/electrofire/solution1_1_650.jpg",
+
+          "description": "Электрические камины 1"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution1/solution1_2_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution1/solution1_2_650.jpg",
+
+          "description": "Электрические камины 2"
+
+        }
+
+      ]
+
+    }
+
+  },
+
+  {
+
+    "solution": {
+
+      "category":"biofire",
+
+      "name": "Био камины",
+
+      "description": "Описание",
+
+      "main":"image/gallery/fire/biofire/solution1/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/fire/biofire/solution1/solution1_1_400.jpg",
+
+          "img": "image/gallery/fire/biofire/electrofire/solution1_1_650.jpg",
+
+          "description": "Био камины 1"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/biofire/solution1/solution1_2_400.jpg",
+
+          "img": "image/gallery/fire/biofire/solution1/solution1_2_650.jpg",
+
+          "description": "Био камины 2"
+
+        }
+
+      ]
+
+    }
+
+  },
+
+  {
+
+    "solution": {
+
+      "category":"portals",
+
+      "name": "Порталы",
+
+      "description": "Описание",
+
+      "main":"image/gallery/fire/portals/solution1/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/fire/portals/solution1/solution1_1_400.jpg",
+
+          "img": "image/gallery/fire/portals/electrofire/solution1_1_650.jpg",
+
+          "description": "Порталы 1"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/portals/solution1/solution1_2_400.jpg",
+
+          "img": "image/gallery/fire/portals/solution1/solution1_2_650.jpg",
+
+          "description": "Порталы 2"
+
+        }
+
+      ]
+
+    }
+
+  }
+
+
+]
+
