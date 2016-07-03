@@ -1,0 +1,356 @@
+[
+   {
+    "solution": {
+      "category": "child",
+      "name": "Коллекция детских обоев COOL KIDS",
+      "description": " В каталоге представлены дизайны не только для самых маленьких и придирчивых, дети повзрослее тоже смогут подобрать для себя дизайн по вкусу, а некоторые паттерны подойдут и взрослой публике. Поэтому, COOL KIDS с его всегда актуальными и красочными дизайнами, можно считать универсальным каталогом вне времени. ",
+      "main": "image/gallery/textile/child/solution2/solution1_1_400.jpg",
+      "images": [
+        {
+          "thumb": "image/gallery/textile/child/solution2/solution1_1_400.jpg",
+          "img": "image/gallery/textile/child/solution2/solution1_1_650.jpg",
+          "description": "Смелые цвета и формы приведут в восторг самых юных и искушенных ценителей и детей постарше. "
+        },
+        {
+          "thumb": "image/gallery/textile/child/solution2/solution1_2_400.jpg",
+          "img": "image/gallery/textile/child/solution2/solution1_2_650.jpg",
+          "description": "Бумажные обои, обои с акриловым напылением"
+        },
+        {
+          "thumb": "image/gallery/textile/child/solution2/solution1_3_400.jpg",
+          "img": "image/gallery/textile/child/solution2/solution1_3_650.jpg",
+          "description": "Дизайны в пастельных тонах придадут детским комнатам эффект деликатности и нежности."
+        },
+        {
+          "thumb": "image/gallery/textile/child/solution2/solution1_4_400.jpg",
+          "img": "image/gallery/textile/child/solution2/solution1_4_650.jpg",
+          "description": "Коллекция обоев COOL KIDS "
+        },
+        {
+          "thumb": "image/gallery/textile/child/solution2/solution1_5_400.jpg",
+          "img": "image/gallery/textile/child/solution2/solution1_5_650.jpg",
+          "description": "other "
+        },
+        {
+          "thumb": "image/gallery/textile/child/solution2/solution1_6_400.jpg",
+          "img": "image/gallery/textile/child/solution2/solution1_6_650.jpg",
+          "description": "other "
+        },
+        {
+          "thumb": "image/gallery/textile/child/solution2/solution1_7_400.jpg",
+          "img": "image/gallery/textile/child/solution2/solution1_7_650.jpg",
+          "description": "other "
+        },
+        {
+          "thumb": "image/gallery/textile/child/solution2/solution1_8_400.jpg",
+          "img": "image/gallery/textile/child/solution2/solution1_8_650.jpg",
+          "description": "other "
+
+
+        }
+      ]
+    }
+  },
+
+  {
+    "solution": {
+      "category": "classic",
+      "name": "classic",
+      "description": "classic description ",
+      "main": "image/gallery/textile/classic/solution1/solution1_1_400.jpg",
+      "images": [
+        {
+          "thumb": "image/gallery/textile/classic/solution1/solution1_1_400.jpg",
+          "img": "image/gallery/textile/classic/solution1/solution1_1_650.jpg",
+          "description": "Коллекция classic "
+        },
+        {
+          "thumb": "image/gallery/textile/classic/solution1/solution1_2_400.jpg",
+          "img": "image/gallery/textile/classic/solution1/solution1_2_650.jpg",
+          "description": "classic "
+        }
+      ]
+    }
+  },
+{
+    "solution": {
+      "category": "modern",
+      "name": "other",
+      "description": "modern Sparkle description ",
+      "main": "image/gallery/textile/modern/solution2/solution1_1_400.jpg",
+      "images": [
+        {
+          "thumb": "image/gallery/textile/modern/solution2/solution1_1_400.jpg",
+          "img": "image/gallery/textile/modern/solution2/solution1_1_650.jpg",
+          "description": "Коллекция classic "
+        },
+        {
+          "thumb": "image/gallery/textile/modern/solution2/solution1_2_400.jpg",
+          "img": "image/gallery/textile/modern/solution2/solution1_2_650.jpg",
+          "description": "other "
+        },
+        {
+          "thumb": "image/gallery/textile/modern/solution2/solution1_3_400.jpg",
+          "img": "image/gallery/textile/modern/solution2/solution1_3_650.jpg",
+          "description": "other "
+        },
+        {
+          "thumb": "image/gallery/textile/modern/solution2/solution1_4_400.jpg",
+          "img": "image/gallery/textile/modern/solution2/solution1_4_650.jpg",
+          "description": "other "
+        },
+        {
+          "thumb": "image/gallery/textile/modern/solution2/solution1_5_400.jpg",
+          "img": "image/gallery/textile/modern/solution2/solution1_5_650.jpg",
+          "description": "other "
+        },
+        {
+          "thumb": "image/gallery/textile/modern/solution2/solution1_6_400.jpg",
+          "img": "image/gallery/textile/modern/solution2/solution1_6_650.jpg",
+          "description": "other "
+
+
+        }
+      ]
+    }
+  },
+
+  {
+    "solution": {
+      "category": "modern",
+      "name": "modern",
+      "description": "modern description ",
+      "main": "image/gallery/textile/modern/solution1/solution1_1_400.jpg",
+      "images": [
+        {
+          "thumb": "image/gallery/textile/modern/solution1/solution1_1_400.jpg",
+          "img": "image/gallery/textile/modern/solution1/solution1_1_650.jpg",
+          "description": "Коллекция classic "
+        },
+        {
+          "thumb": "image/gallery/textile/modern/solution1/solution1_2_400.jpg",
+          "img": "image/gallery/textile/modern/solution1/solution1_2_650.jpg",
+          "description": "modern "
+        }
+      ]
+    }
+  },
+{
+    "solution": {
+      "category": "other",
+      "name": "Восточная коллекции KISMET ",
+      "description": "Этот каталог вобрал в себя все лучшее из разных стилей и направлений, и считается по истине эклектичным. Все дизайны этой коллекции гипнотизируют и непременно переносят нас мыслями в далекую Индию и Азию. ",
+      "main": "image/gallery/textile/other/solution1/solution1_1_400.jpg",
+      "images": [
+        {
+          "thumb": "image/gallery/textile/other/solution1/solution1_1_400.jpg",
+          "img": "image/gallery/textile/other/solution1/solution1_1_650.jpg",
+          "description": "Коллекция обоев Kismet "
+        },
+        {
+          "thumb": "image/gallery/textile/other/solution1/solution1_2_400.jpg",
+          "img": "image/gallery/textile/other/solution1/solution1_2_650.jpg",
+          "description": "Смелые сочетания дизайнов и цветов. "
+        },
+        {
+          "thumb": "image/gallery/textile/other/solution1/solution1_3_400.jpg",
+          "img": "image/gallery/textile/other/solution1/solution1_3_650.jpg",
+          "description": "Флизелиновые обои коллекции KISMET  "
+        },
+        {
+          "thumb": "image/gallery/textile/other/solution1/solution1_4_400.jpg",
+          "img": "image/gallery/textile/other/solution1/solution1_4_650.jpg",
+          "description": "other "
+        },
+        {
+          "thumb": "image/gallery/textile/other/solution1/solution1_5_400.jpg",
+          "img": "image/gallery/textile/other/solution1/solution1_5_650.jpg",
+          "description": "other "
+        },
+        {
+          "thumb": "image/gallery/textile/other/solution1/solution1_6_400.jpg",
+          "img": "image/gallery/textile/other/solution1/solution1_6_650.jpg",
+          "description": "other "
+        },
+        {
+          "thumb": "image/gallery/textile/other/solution1/solution1_7_400.jpg",
+          "img": "image/gallery/textile/other/solution1/solution1_7_650.jpg",
+          "description": "other "
+        },
+        {
+          "thumb": "image/gallery/textile/other/solution1/solution1_8_400.jpg",
+          "img": "image/gallery/textile/other/solution1/solution1_8_650.jpg",
+          "description": "other "
+
+
+        }
+      ]
+    }
+  },
+{
+    "solution": {
+      "category": "flower",
+      "name": "flower",
+      "description": "flower description ",
+      "main": "image/gallery/textile/flower/solution2/solution1_1_400.jpg",
+      "images": [
+        {
+          "thumb": "image/gallery/textile/flower/solution2/solution1_1_400.jpg",
+          "img": "image/gallery/textile/flower/solution2/solution1_1_650.jpg",
+          "description": "Коллекция classic "
+        },
+        {
+          "thumb": "image/gallery/textile/flower/solution2/solution1_2_400.jpg",
+          "img": "image/gallery/textile/flower/solution2/solution1_2_650.jpg",
+          "description": "other "
+        },
+        {
+          "thumb": "image/gallery/textile/flower/solution2/solution1_3_400.jpg",
+          "img": "image/gallery/textile/flower/solution2/solution1_3_650.jpg",
+          "description": "other "
+        },
+        {
+          "thumb": "image/gallery/textile/flower/solution2/solution1_4_400.jpg",
+          "img": "image/gallery/textile/flower/solution2/solution1_4_650.jpg",
+          "description": "other "
+        },
+        {
+          "thumb": "image/gallery/textile/flower/solution2/solution1_5_400.jpg",
+          "img": "image/gallery/textile/flower/solution2/solution1_5_650.jpg",
+          "description": "other "
+        },
+        {
+          "thumb": "image/gallery/textile/flower/solution2/solution1_6_400.jpg",
+          "img": "image/gallery/textile/flower/solution2/solution1_6_650.jpg",
+          "description": "other "
+        },
+        {
+          "thumb": "image/gallery/textile/flower/solution2/solution1_7_400.jpg",
+          "img": "image/gallery/textile/flower/solution2/solution1_7_650.jpg",
+          "description": "other "
+        },
+        {
+          "thumb": "image/gallery/textile/flower/solution2/solution1_8_400.jpg",
+          "img": "image/gallery/textile/flower/solution2/solution1_8_650.jpg",
+          "description": "other "
+
+
+        }
+      ]
+    }
+  },
+{
+    "solution": {
+      "category": "flower",
+      "name": "flower SOMERSET",
+      "description": "flower description ",
+      "main": "image/gallery/textile/flower/solution3/solution1_1_400.jpg",
+      "images": [
+        {
+          "thumb": "image/gallery/textile/flower/solution3/solution1_1_400.jpg",
+          "img": "image/gallery/textile/flower/solution3/solution1_1_650.jpg",
+          "description": "Коллекция classic "
+        },
+        {
+          "thumb": "image/gallery/textile/flower/solution3/solution1_2_400.jpg",
+          "img": "image/gallery/textile/flower/solution3/solution1_2_650.jpg",
+          "description": "other "
+        },
+        {
+          "thumb": "image/gallery/textile/flower/solution3/solution1_3_400.jpg",
+          "img": "image/gallery/textile/flower/solution3/solution1_3_650.jpg",
+          "description": "other "
+        },
+        {
+          "thumb": "image/gallery/textile/flower/solution3/solution1_4_400.jpg",
+          "img": "image/gallery/textile/flower/solution3/solution1_4_650.jpg",
+          "description": "other "
+        },
+        {
+          "thumb": "image/gallery/textile/flower/solution3/solution1_5_400.jpg",
+          "img": "image/gallery/textile/flower/solution3/solution1_5_650.jpg",
+          "description": "other "
+        },
+        {
+          "thumb": "image/gallery/textile/flower/solution3/solution1_6_400.jpg",
+          "img": "image/gallery/textile/flower/solution3/solution1_6_650.jpg",
+          "description": "other "
+        },
+        {
+          "thumb": "image/gallery/textile/flower/solution3/solution1_7_400.jpg",
+          "img": "image/gallery/textile/flower/solution3/solution1_7_650.jpg",
+          "description": "other "
+        },
+        {
+          "thumb": "image/gallery/textile/flower/solution3/solution1_8_400.jpg",
+          "img": "image/gallery/textile/flower/solution3/solution1_8_650.jpg",
+          "description": "other "
+
+
+        }
+      ]
+    }
+  },
+
+  {
+    "solution": {
+      "category": "geometry",
+      "name": "geometry",
+      "description": "geometry description ",
+      "main": "image/gallery/textile/geometry/solution1/solution1_1_400.jpg",
+      "images": [
+        {
+          "thumb": "image/gallery/textile/geometry/solution1/solution1_1_400.jpg",
+          "img": "image/gallery/textile/geometry/solution1/solution1_1_650.jpg",
+          "description": "Коллекция classic "
+        },
+        {
+          "thumb": "image/gallery/textile/geometry/solution1/solution1_2_400.jpg",
+          "img": "image/gallery/textile/geometry/solution1/solution1_2_650.jpg",
+          "description": "geometry "
+        }
+      ]
+    }
+  },
+  {
+    "solution": {
+      "category": "flower",
+      "name": "flower",
+      "description": "flower description ",
+      "main": "image/gallery/textile/flower/solution1/solution1_1_400.jpg",
+      "images": [
+        {
+          "thumb": "image/gallery/textile/flower/solution1/solution1_1_400.jpg",
+          "img": "image/gallery/textile/flower/solution1/solution1_1_650.jpg",
+          "description": "Коллекция flower "
+        },
+        {
+          "thumb": "image/gallery/textile/flower/solution1/solution1_2_400.jpg",
+          "img": "image/gallery/textile/flower/solution1/solution1_2_650.jpg",
+          "description": "flower "
+        }
+      ]
+    }
+  },
+  {
+    "solution": {
+      "category": "child",
+      "name": "child",
+      "description": "child description ",
+      "main": "image/gallery/textile/child/solution1/solution1_1_400.jpg",
+      "images": [
+        {
+          "thumb": "image/gallery/textile/child/solution1/solution1_1_400.jpg",
+          "img": "image/gallery/textile/child/solution1/solution1_1_650.jpg",
+          "description": "Коллекция child "
+        },
+        {
+          "thumb": "image/gallery/textile/child/solution1/solution1_2_400.jpg",
+          "img": "image/gallery/textile/child/solution1/solution1_2_650.jpg",
+          "description": "child "
+        }
+      ]
+    }
+  }
+]
+

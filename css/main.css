@@ -59,6 +59,11 @@ table {
     src: url(../font/terminator_cyr.ttf);
 }
 
+@font-face {
+    font-family: Mod20;
+    src: url(../font/MOD20.TTF);
+}
+
 body{
      font: 12px/1.5em sans-serif;
      background-color: #fff;
@@ -136,18 +141,17 @@ nav .logo-container .slogan{
 nav .logo-container .name
 {
     margin-top: 20px;
-    font-family: MetroRetro;
+    font-family: Mod20;
     font-size: 65px;
     padding-left: 60px;
 }
 
 nav .logo-container .logo-sheep
 {
-    background-image: url(../image/site/logo_oves.png);
-    background-size: 80px 60px;
-    width: 80px;
-    height: 60px;
-    margin-bottom: 5px;
+    background-image: url(../image/site/logo_white_s.png);
+    background-size: 65px 90px;
+    width: 65px;
+    height: 90px;
 }
 
 

@@ -3,14 +3,177 @@
 [
 
   {
+    "solution": {
+
+      "category":"electrofire",
+
+      "name": "Очаг Dimplex Cassette 500",
+
+      "description": "Новый компактный электрокамин от Dimplex Cassette 500 эффект пламени Opti-Myst, с имитацией тления дров. Прекрасно подходит для встройки в поверхности, новым дополнение стал звуковой эффект потрескивание дров.",
+
+      "main":"image/gallery/fire/electrofire/solution12/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution12/solution1_1_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution12/solution1_1_650.jpg",
+
+          "description": "Cassette 500 габаритные размеры (в*ш*г) мм. 237*508*354 без функции обогрева, Bluetooth пульт-Д.У"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution12/solution1_2_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution12/solution1_2_650.jpg",
+
+          "description": "Cassette 500 от Dimplex  "
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution12/solution1_3_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution12/solution1_3_650.jpg",
+
+          "description": "Cassette 500 (with LED logs) Dimplex"
+
+
+        }
+
+      ]
+
+    }
+
+  },
+{
+    "solution": {
+
+      "category":"electrofire",
+
+      "name": "Очаг Dimplex Cassette L",
+
+      "description": "Oчаг с эффектом пламени Opti-Myst , встроенный в модульную систему",
+
+      "main":"image/gallery/fire/electrofire/solution9/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution9/solution1_1_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution9/solution1_1_650.jpg",
+
+          "description": "Cassete L габаритные размеры (в*ш*г) мм. 350*720*330 без функции обогрева,пульт-Д.У"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution9/solution1_2_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution9/solution1_2_650.jpg",
+
+          "description": "Cassete L от Dimplex прекрасно вписывается как современные интерьеры , так и в классические интерьеры "
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution9/solution1_3_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution9/solution1_3_650.jpg",
+
+          "description": "Электрокамин Dimplex, серии Opti-Myst Cassete L"
+
+
+        }
+
+      ]
+
+    }
+
+  },
+
+{
 
     "solution": {
 
       "category":"electrofire",
 
-      "name": "Электрические камины",
+      "name": "Электрокамин Dimplex Cassette 1000",
 
-      "description": "Описание",
+      "description": "Очаг Cassette 1000 с эффектом пламени Opti-Myst новинка 2016 года, добавился эффект тления и звук потрескивания дров. Новые модели от Dimplex так же дополнительно включают возможность работать и от водопровода. ",
+
+      "main":"image/gallery/fire/electrofire/solution11/solution1_4_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution11/solution1_1_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution11/solution1_1_650.jpg",
+
+          "description": "Dimplex Cassette 1000 габаритные размеры (в*ш*г) мм. 237*1017*354 Bluetooth пульт-Д.У"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution11/solution1_2_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution11/solution1_2_650.jpg",
+
+          "description": "Cassette 1000 (with LED logs) Dimplex"
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution11/solution1_3_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution11/solution1_3_650.jpg",
+
+          "description": "Cassette 1000 тип встраиваемый"
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution11/solution1_4_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution11/solution1_4_650.jpg",
+
+          "description": "Новая модель электрокаминов"
+
+
+
+        }
+
+      ]
+
+    }
+
+  },
+
+  {
+
+    "solution": {
+
+      "category":"electrofire",
+
+      "name": "Электрический камин Dimplex Cassette 600",
+
+      "description": "Очаг с эффектом пламени Opti-Myst, электрокамин Cassette 600 может быть встроен в любую конструкцию и поверхность за счет простоты эксплуатации.",
 
       "main":"image/gallery/fire/electrofire/solution1/solution1_1_400.jpg",
 
@@ -22,9 +185,9 @@
 
           "thumb": "image/gallery/fire/electrofire/solution1/solution1_1_400.jpg",
 
-          "img": "image/gallery/fire/electrofire/electrofire/solution1_1_650.jpg",
+          "img": "image/gallery/fire/electrofire/solution1/solution1_1_650.jpg",
 
-          "description": "Электрические камины 1"
+          "description": "Casette 600 габаритные размеры (в*ш*г) мм. 351*564*216 без функции обогрева,пульт-Д.У"
 
         },
 
@@ -34,7 +197,17 @@
 
           "img": "image/gallery/fire/electrofire/solution1/solution1_2_650.jpg",
 
-          "description": "Электрические камины 2"
+          "description": "Casette 600 Dimplex "
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution1/solution1_4_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution1/solution1_4_650.jpg",
+
+          "description": "Сasette 600 "
+
 
         }
 
@@ -43,6 +216,455 @@
     }
 
   },
+  {
+
+    "solution": {
+
+      "category":"electrofire",
+
+      "name": "Очаг Redway Hi-Tech",
+
+      "description": "Навесной электрокамин Redway из серии Hi-tech, так же может быть встроен в нишу, есть функция обогрева 1-2 кВт",
+
+      "main":"image/gallery/fire/electrofire/solution2/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution2/solution1_1_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution2/solution1_1_650.jpg",
+
+          "description": " Электрокамин redway габаритные размеры (в*ш*г) мм. 690*760*182 c функцией обогрева 1-2 кВт,пульт-Д.У"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution2/solution1_2_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution2/solution1_2_650.jpg",
+
+          "description": "Redway Dimplex"
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution2/solution1_3_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution2/solution1_3_650.jpg",
+
+          "description": "Электрический камин Redway"
+
+
+        }
+
+      ]
+
+    }
+
+  },
+{
+
+    "solution": {
+
+      "category":"electrofire",
+
+      "name": "Электрический камин Cavendish",
+
+      "description": "Классическая модель камина Cavendish прекрасно подходит для встраивания в традиционный каминный портал, так же особенностью данной модели является светодиодная подсветка дров, что дает возможность использовать камин в разных режимах.",
+
+      "main":"image/gallery/fire/electrofire/solution8/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution8/solution1_1_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution8/solution1_1_650.jpg",
+
+          "description": "Dimplex Cavendish  габаритные размеры (в*ш*г) мм. 657*590*310 c функцией обогрева 1-2 кВт,пульт-Д.У."
+
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution8/solution1_2_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution8/solution1_2_650.jpg",
+
+          "description": "Очаг Cavendish Dimplex"
+       
+
+        }
+
+      ]
+
+    }
+
+  },
+
+  {
+
+    "solution": {
+
+      "category":"electrofire",
+
+      "name": "Электрокамин Albany",
+
+      "description": "Очаг Albany с эффектом пламени Opti-Myst со светодиодной подсветкой дров и функцией обогрева. Идеальное сочетание минимализма, функционала и самого реалистичного эффекта пламени.",
+
+      "main":"image/gallery/fire/electrofire/solution3/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution3/solution1_1_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution3/solution1_1_650.jpg",
+
+          "description": "Albany электрокамин габаритные размеры (в*ш*г) мм. 703*625*300 c функцией обогрева 1-2 кВт,пульт-Д.У"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution3/solution1_2_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution3/solution1_2_650.jpg",
+
+          "description": "Albany Dimplex"
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution3/solution1_3_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution3/solution1_3_650.jpg",
+
+          "description": "Albany"
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution3/solution1_4_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution3/solution1_4_650.jpg",
+
+          "description": "Albany"
+
+
+
+        }
+
+      ]
+
+    }
+
+  },
+ {
+
+    "solution": {
+
+      "category":"electrofire",
+
+      "name": "Очаг Silverton",
+
+      "description": "Oтдельностоящий электрокамин Silverton с крупными бревнами, в каждое вмонтированы светодиоды. Особенность данной модели в возможности изменения расположения дров.",
+
+      "main":"image/gallery/fire/electrofire/solution10/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution10/solution1_1_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution10/solution1_1_650.jpg",
+
+          "description": "Dimplex silvertone габаритные размеры (в*ш*г) мм. 305*717*356 ,без обогрева,пульт-Д.У"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution10/solution1_2_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution10/solution1_2_650.jpg",
+
+          "description": "Электрический камин Silverton"
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution10/solution1_3_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution10/solution1_3_650.jpg",
+
+          "description": "silverton"
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution10/solution1_4_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution10/solution1_4_650.jpg",
+
+          "description": "silverton"
+
+
+
+        }
+
+      ]
+
+    }
+
+  },
+{
+
+    "solution": {
+
+      "category":"electrofire",
+
+      "name": "Электрические камины",
+
+      "description": "Описание",
+
+      "main":"image/gallery/fire/electrofire/solution6/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution6/solution1_1_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution6/solution1_1_650.jpg",
+
+          "description": "juneu"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution6/solution1_2_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution6/solution1_2_650.jpg",
+
+          "description": "juneu"
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution6/solution1_3_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution6/solution1_3_650.jpg",
+
+          "description": "juneu"
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution6/solution1_4_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution6/solution1_4_650.jpg",
+
+          "description": "juneu"
+
+
+
+        }
+
+      ]
+
+    }
+
+  },
+
+  {
+
+    "solution": {
+
+      "category":"electrofire",
+
+      "name": "Электрические камины",
+
+      "description": "Описание",
+
+      "main":"image/gallery/fire/electrofire/solution5/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution5/solution1_1_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution5/solution1_1_650.jpg",
+
+          "description": "casette 400"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution5/solution1_2_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution5/solution1_2_650.jpg",
+
+          "description": "casette 400"
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution5/solution1_3_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution5/solution1_3_650.jpg",
+
+          "description": "casette 400"
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution5/solution1_4_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution5/solution1_4_650.jpg",
+
+          "description": "casette 400"
+
+        }
+
+      ]
+
+    }
+
+  },
+  {
+
+
+    "solution": {
+
+      "category":"electrofire",
+
+      "name": "Электрические камины",
+
+      "description": "Описание",
+
+      "main":"image/gallery/fire/electrofire/solution4/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution4/solution1_1_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution4/solution1_1_650.jpg",
+
+          "description": "Albany"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution4/solution1_2_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution4/solution1_2_650.jpg",
+
+          "description": "Albany"
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution4/solution1_3_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution4/solution1_3_650.jpg",
+
+          "description": "Albany"
+
+
+        }
+
+      ]
+
+    }
+
+  },
+{
+
+    "solution": {
+
+      "category":"electrofire",
+
+      "name": "Электрические камины",
+
+      "description": "Описание",
+
+      "main":"image/gallery/fire/electrofire/solution7/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution7/solution1_1_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution7/solution1_1_650.jpg",
+
+          "description": "Danville Black"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution7/solution1_2_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution7/solution1_2_650.jpg",
+
+          "description": "Danville Black"
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution7/solution1_3_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution7/solution1_3_650.jpg",
+
+          "description": "Danville Black"
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/electrofire/solution7/solution1_4_400.jpg",
+
+          "img": "image/gallery/fire/electrofire/solution7/solution1_4_650.jpg",
+
+          "description": "Danville Black"
+
+        }
+
+      ]
+
+    }
+
+  },
+
 
   {
 
@@ -92,7 +714,7 @@
 
       "category":"portals",
 
-      "name": "Порталы",
+      "name": "Портал California Engine  ",
 
       "description": "Описание",
 
@@ -106,9 +728,9 @@
 
           "thumb": "image/gallery/fire/portals/solution1/solution1_1_400.jpg",
 
-          "img": "image/gallery/fire/portals/electrofire/solution1_1_650.jpg",
+          "img": "image/gallery/fire/portals/solution1/solution1_1_650.jpg",
 
-          "description": "Порталы 1"
+          "description": "Калифорния"
 
         },
 
@@ -118,7 +740,89 @@
 
           "img": "image/gallery/fire/portals/solution1/solution1_2_650.jpg",
 
-          "description": "Порталы 2"
+          "description": "Портал для электрокамина"
+
+        }
+
+      ]
+
+    }
+
+  },
+ {
+
+"solution": {
+
+      "category":"portals",
+
+      "name": "Портал Suite  ",
+
+      "description": "Описание",
+
+      "main":"image/gallery/fire/portals/solution3/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/fire/portals/solution3/solution1_1_400.jpg",
+
+          "img": "image/gallery/fire/portals/solution3/solution1_1_650.jpg",
+
+          "description": "Suite"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/portals/solution3/solution1_2_400.jpg",
+
+          "img": "image/gallery/fire/portals/solution3//solution1_2_650.jpg",
+
+          "description": "Suite"
+
+        }
+
+      ]
+
+    }
+
+  },
+ {
+
+    "solution": {
+
+      "category":"portals",
+
+      "name": "Порталы",
+
+      "description": "Описание",
+
+      "main":"image/gallery/fire/portals/solution2/solution1_1_400.jpg",
+
+      "images" :
+
+      [
+
+        {
+
+          "thumb": "image/gallery/fire/portals/solution2/solution1_1_400.jpg",
+
+          "img": "image/gallery/fire/portals/solution2/solution1_1_650.jpg",
+
+          "description": "Портал Alameda"
+
+        },
+
+        {
+
+          "thumb": "image/gallery/fire/portals/solution2/solution1_2_400.jpg",
+
+          "img": "image/gallery/fire/portals/solution2/solution1_2_650.jpg",
+
+          "description": "Портал Alameda и cosette 600"
 
         }
 
@@ -127,7 +831,6 @@
     }
 
   }
-
 
 ]
 

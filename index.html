@@ -21,7 +21,16 @@
 <body ng-app="myApp" ng-controller="MainController">
 <header>
     <nav>
-        <!--<span ng-bind="navData.hello"></span>-->
+        <div style="position: absolute; top: 20px; left: 40px; color: #999999; text-shadow: 0px 1px 1px #000000;">
+            <ul>
+                <li>Наши партнеры:
+                    <a href="http://kaminograd.by/" style="text-decoration: none;">
+                        <span style="color: #5AAB91; text-shadow: 0px 1px 1px #000000; padding-left: 5px;">kaminograd.by </span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+
         <div class="logo-container" style="position: relative;">
             <div class="name">Oves</div>
             <div class="slogan">студия штор & каминов</div>
@@ -30,6 +39,7 @@
 
         <div style="position: absolute; top: 20px; right: 40px; color: #999999; text-shadow: 0px 1px 1px #000000;">
             <ul>
+                <li>+375(29)392-65-78</li>
                 <li>+375(29)183-83-43</li>
                 <li>+375(29)189-83-43</li>
                 <li ><a href="https://www.instagram.com/oves_studio/" style="text-decoration: none;">
@@ -42,11 +52,11 @@
         <ul class="menu">
             <li ui-sref-active="active"><a ui-sref="main">Главная</a></li>
             <li ui-sref-active="active"><a ui-sref="about">О Нас</a></li>
-            <li ui-sref-active="active"><a ui-sref="event">События</a></li>
+            <li ui-sref-active="active"><a ui-sref="textile">Ткани</a></li>
             <li ui-sref-active="active"><a ui-sref="gallery-blind">Шторы</a> </li>
+            <li ui-sref-active="active"><a ui-sref="wallpaper">Обои</a> </li>
             <li ui-sref-active="active"><a ui-sref="gallery-fire">Камины</a> </li>
             <li ui-sref-active="active"><a ui-sref="contacts">Контакты</a></li>
-            <li ui-sref-active="active"><a ui-sref="calldesign">Выезд дизайнера</a></li>
         </ul>
 
 
